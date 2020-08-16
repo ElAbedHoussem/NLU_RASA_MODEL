@@ -1,0 +1,149 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "home-rent",
+        "text": "lease"
+      },
+      {
+        "intent": "home-rent",
+        "text": "rental unit"
+      },
+      {
+        "intent": "home-rent",
+        "text": "gash"
+      },
+      {
+        "intent": "home-rent",
+        "text": "incision"
+      },
+      {
+        "intent": "home-rent",
+        "text": "laceration"
+      },
+      {
+        "intent": "home-rent",
+        "text": "rip"
+      },
+      {
+        "intent": "home-rent",
+        "text": "slash"
+      },
+      {
+        "intent": "home-rent",
+        "text": "slit"
+      },
+      {
+        "intent": "home-rent",
+        "text": "tear"
+      },
+      {
+        "intent": "home-mortgage",
+        "text": "contract"
+      },
+      {
+        "intent": "home-mortgage",
+        "text": "debt"
+      },
+      {
+        "intent": "home-mortgage",
+        "text": "deed"
+      },
+      {
+        "intent": "home-mortgage",
+        "text": "pledge"
+      },
+      {
+        "intent": "home-mortgage",
+        "text": "title"
+      },
+      {
+        "intent": "home-mortgage",
+        "text": "commit"
+      },
+      {
+        "intent": "home-mortgage",
+        "text": "engage"
+      },
+      {
+        "intent": "home-mortgage",
+        "text": "troth"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "mortgage"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "advance"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "contract"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "debt"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "deed"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "hypothecation"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "loan"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "pledge"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "remortgage"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "title"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "bank loan"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "bridging loan"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "homeowner's loan"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "second mortgage"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "home equity loan"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "car loan"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "home loan"
+      },
+      {
+        "intent": "home-secured loans",
+        "text": "small business loan"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

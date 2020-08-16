@@ -1,0 +1,369 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "business services-advertising",
+        "text": "billing"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "blurb"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "come-on"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "commercial"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "message"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "pitch"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "plugola"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "spot"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "word"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "advert"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "barking"
+      },
+      {
+        "intent": "business services-advertising",
+        "text": "calling"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "commercial"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "economic"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "fiscal"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "monetary"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "banking"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "budgeting"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "financial facilities"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "finance branch"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "financial services"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "finance services"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "finance"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "financing facilities"
+      },
+      {
+        "intent": "business services-financial services",
+        "text": "financial inclusion"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "stationery"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "materials"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "chancellery"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "office equipment"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "office supply"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "office furniture"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "stationary"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "office material"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "chancery"
+      },
+      {
+        "intent": "business services-office supplies",
+        "text": "registry"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printing house"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printing office"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "workplace"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printing shop"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printing business"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printshop"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printing-press"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "print works"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printing company"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printing works"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "copy place"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printing services"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "printed"
+      },
+      {
+        "intent": "business services-printing",
+        "text": "press"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "service delivery"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "delivery of services"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "provision of services"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "provide services"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "service provision"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "servicing"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "providing services"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "deliver services"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "service"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "care"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "outreach"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "ship"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "passenger"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "sailing"
+      },
+      {
+        "intent": "business services-shipping",
+        "text": "steam"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "synonyms"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "antonyms"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "definitions"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "examples"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "phrases"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "nouns"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "adjectives"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "legal department"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "legal services"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "legal office"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "legal offices"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "justice division"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "legal consultants"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "legal division"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "legal staff"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "counsel"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "jurisconsult"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "constitutional"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "contractual"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "fair"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "juridical"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "lawful"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "legitimate"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "proper"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "statutory"
+      },
+      {
+        "intent": "business services-legal",
+        "text": "valid"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

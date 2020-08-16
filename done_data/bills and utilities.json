@@ -1,0 +1,533 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "bills and utilities-television",
+        "text": "tv set"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "audio"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "box"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "station"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "video"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "tv"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "baby-sitter"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "eye"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "receiver"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "telly"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "tube"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "boob tube"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "idiot box"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "small screen"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television set"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "broadcasting"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "broadcast"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "screen"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "news"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "network"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "telecast"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "media"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "pay-tv"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television receiver"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "broadcaster"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television broadcasting"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television station"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "entertainment system"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "telecasting"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television system"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "wobbly jelly"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television network"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "tidings"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "news medium"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "impedance"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "news service"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "wire service"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "newscasts"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television programmes"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "information center"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "information medium"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "information industry"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television transmitter"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "television tube"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "gogglebox"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "tv-set"
+      },
+      {
+        "intent": "bills and utilities-television",
+        "text": "telecommunication system"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "home telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "landline phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "landline telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "land line"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "fixed-line telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "stationary telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "stationary phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "landline"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "fixed telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "fixed phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "hard line"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "private telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "main line"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "home telephone number"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "fixed-line phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "corded telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "corded phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "desk telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "desk phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "conventional phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "conventional telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "house phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "fixed line telephone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "house number"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "personal cell"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "land-line"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "burn phone"
+      },
+      {
+        "intent": "bills and utilities-home phone",
+        "text": "fixed-line"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "the information superhighway"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "the net"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "the web"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "the world wide web"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "cyberspace"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "the cloud"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "blogosphere"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "the interweb"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "blogostream"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "extranet"
+      },
+      {
+        "intent": "bills and utilities-internet",
+        "text": "podosphere"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "car phone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "cell"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "cellphone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "cell phone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "cell telephone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "cellular"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "cellular mobile"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "cellular phone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "cellular telephone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "digital phone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "handphone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "mobile"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "mobile telephone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "radiotelephone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "wireless phone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "iphone"
+      },
+      {
+        "intent": "bills and utilities-mobile phone",
+        "text": "smartphone"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "electricity"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "power"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "current"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "energy"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "mains"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "galvanism"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "static"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "electric power"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "electromagneticism"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "electron"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "heat"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "hydro"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "ignition"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "juice"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "leccy"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "light"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "magneticism"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "power supply"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "service"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "spark"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "tension"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "voltage"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "electrical energy"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "energized matter"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "hot stuff"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "electric energy"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "electrical power"
+      },
+      {
+        "intent": "bills and utilities-utilities",
+        "text": "water power"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "education-tuition",
+        "text": "expenditure"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "instruction"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "lessons"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "price"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "schooling"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "teaching"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "training"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "tutelage"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "tutoring"
+      },
+      {
+        "intent": "education-tuition",
+        "text": "education"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "debt"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "due"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "home loan"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "liability"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "loan"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "outstanding"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "bank loan"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "educational loan"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "government loan"
+      },
+      {
+        "intent": "education-student loan",
+        "text": "subsidized loan"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "album"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "booklet"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "brochure"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "copy"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "dictionary"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "edition"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "essay"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "fiction"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "magazine"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "manual"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "novel"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "pamphlet"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "paperback"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "publication"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "text"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "textbook"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "tome"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "volume"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "work"
+      },
+      {
+        "intent": "education-books & supplies",
+        "text": "writing"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

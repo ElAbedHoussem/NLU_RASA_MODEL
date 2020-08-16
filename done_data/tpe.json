@@ -1,0 +1,57 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "tpe",
+        "text": "atm"
+      },
+      {
+        "intent": "tpe",
+        "text": "countertop card machines"
+      },
+      {
+        "intent": "tpe",
+        "text": "mortable card machines"
+      },
+      {
+        "intent": "tpe",
+        "text": "mobile card machines"
+      },
+      {
+        "intent": "tpe",
+        "text": "smartphone or tablet card readers"
+      },
+      {
+        "intent": "tpe",
+        "text": "virtual terminals for card payments"
+      },
+      {
+        "intent": "TPE",
+        "text": "atm"
+      },
+      {
+        "intent": "TPE",
+        "text": "countertop card machines"
+      },
+      {
+        "intent": "TPE",
+        "text": "mortable card machines"
+      },
+      {
+        "intent": "TPE",
+        "text": "mobile card machines"
+      },
+      {
+        "intent": "TPE",
+        "text": "smartphone or tablet card readers"
+      },
+      {
+        "intent": "TPE",
+        "text": "virtual terminals for card payments"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

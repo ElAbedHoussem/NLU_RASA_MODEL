@@ -1,0 +1,545 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "fees & charges-service fee",
+        "text": "service charge"
+      },
+      {
+        "intent": "fees & charges-service fee",
+        "text": "cost of service"
+      },
+      {
+        "intent": "fees & charges-service fee",
+        "text": "servicing costs"
+      },
+      {
+        "intent": "fees & charges-service fee",
+        "text": "service charges"
+      },
+      {
+        "intent": "fees & charges-service fee",
+        "text": "fee for service"
+      },
+      {
+        "intent": "fees & charges-service fee",
+        "text": "fees for services"
+      },
+      {
+        "intent": "fees & charges-service fee",
+        "text": "service costs"
+      },
+      {
+        "intent": "fees & charges-service fee",
+        "text": "fee-for-service"
+      },
+      {
+        "intent": "fees & charges-service fee",
+        "text": "remuneration for services"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "delay penalties"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "late payment charge"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "delay penalty"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "late charge"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "outstanding assessed contributions"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "late payment"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "assessed contributions due"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "late payment penalties"
+      },
+      {
+        "intent": "fees & charges-late fee",
+        "text": "late penalties"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "financial expenses"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "financial charges"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "financial expense"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "financial costs"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "carrying charges"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "finance costs"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "financing costs"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "capital charge"
+      },
+      {
+        "intent": "fees & charges-finance charge",
+        "text": "financing expenses"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "usage fee"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "user fee"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "cost of using"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "external fees"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "usage charges"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "user fees"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "usage fees"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "charges for the use"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "charging"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "business use of home expenses"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "user charges"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "fees for the use"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "use fees"
+      },
+      {
+        "intent": "fees & charges-atm fee",
+        "text": "costs of using"
+      },
+      {
+        "intent": "fees & charges-bank fee",
+        "text": "banking services"
+      },
+      {
+        "intent": "fees & charges-bank fee",
+        "text": "banking facilities"
+      },
+      {
+        "intent": "fees & charges-bank fee",
+        "text": "service charges"
+      },
+      {
+        "intent": "fees & charges-bank fee",
+        "text": "fees"
+      },
+      {
+        "intent": "fees & charges-bank fee",
+        "text": "bank services"
+      },
+      {
+        "intent": "fees & charges-bank fee",
+        "text": "csd-banking service provider"
+      },
+      {
+        "intent": "fees & charges-bank fee",
+        "text": "bank service"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "current accounts"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "savings"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "credit"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "debit cards"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "credit cards"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "checks"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "ovedraft"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "personal loans"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "business loans"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "purposose loans"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "non-purpose loans"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "investment loans"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "investmen advices"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "money transfers"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "payment processing"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "retail & sme banking"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "corporate banking"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "private banking"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "investment banking"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "clearing services"
+      },
+      {
+        "intent": "fees & charges-bank products",
+        "text": "insurance products"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "account"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "bill"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "commission"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "compensation"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "cost"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "cut"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "expense"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "pay"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "payment"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "price"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "reward"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "salary"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "share"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "stipend"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "wage"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "charge"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "provision"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "panel"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "fee"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "commissioner"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "commissary"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "committee"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "errand"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "brokerage"
+      },
+      {
+        "intent": "fees & charges-commissions",
+        "text": "board"
+      },
+      {
+        "intent": "fees & charges-insurance",
+        "text": "money-back policy"
+      },
+      {
+        "intent": "fees & charges-insurance",
+        "text": "unit-linked insurance plan"
+      },
+      {
+        "intent": "fees & charges-insurance",
+        "text": "pension plans"
+      },
+      {
+        "intent": "fees & charges-insurance",
+        "text": "motor insurance"
+      },
+      {
+        "intent": "fees & charges-insurance",
+        "text": "home insurance"
+      },
+      {
+        "intent": "fees & charges-insurance",
+        "text": "health insurance"
+      },
+      {
+        "intent": "fees & charges-insurance",
+        "text": "fire insurance"
+      },
+      {
+        "intent": "fees & charges-equities",
+        "text": "common stock"
+      },
+      {
+        "intent": "fees & charges-equities",
+        "text": "preferred stock"
+      },
+      {
+        "intent": "fees & charges-equities",
+        "text": "additional paid-in capital"
+      },
+      {
+        "intent": "fees & charges-equities",
+        "text": "treasury stock"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "accumulation"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "hoard"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "nest egg"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "economise"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "economize"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "save"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "scrimp"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "retrench"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "be sparing"
+      },
+      {
+        "intent": "fees & charges-saving",
+        "text": "cut back"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "refund"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "reimburse"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "give back"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "reciprocate"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "render"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "compensate"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "recompense"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "remunerate"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "liquidate"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "pay down"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "pay off"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "pay up"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "settle"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "pay back"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "compensation"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "reimbursement"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "reparation"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "restitution"
+      },
+      {
+        "intent": "fees & charges-credit repayment",
+        "text": "restoration"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

@@ -1,0 +1,1428 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "entertainment-arts",
+        "text": "craft"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "profession"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "adroitness"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "aptitude"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "artistry"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "craftsmanship"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "dexterity"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "expertise"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "facility"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "imagination"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "ingenuity"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "inventiveness"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "knack"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "know-how"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "knowledge"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "mastery"
+      },
+      {
+        "intent": "entertainment-arts",
+        "text": "animation"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "alternative"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "art punk"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "alternative rock"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "britpunk"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "college rock"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "anime"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "blues"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "avant-garde"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "ballet"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "string quartet"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "chant"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "choral"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "country"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "melody"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "opera"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "piece"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "rap"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "rock"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "singing"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "soul"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "tune"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "acoustic"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "air"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "bebop"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "bop"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "chamber"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "classical"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "folk"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "fusion"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "harmony"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "hymn"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "jazz"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "measure"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "modern"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "plainsong"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "ragtime"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "refrain"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "song"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "strain"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "swing"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "a cappella"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "chillstep"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "deep house"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "dubstep"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "electro house"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "hard dance"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "horrorcore"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "house"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "techno"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "acid techno"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "detroit techno"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "free tekno"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "easy listening"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "background"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "elevator"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "furniture"
+      },
+      {
+        "intent": "entertainment-music",
+        "text": "lounge"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "cinema"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "feature"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "film"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "flick"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "motion picture"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "picture"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "show"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "videotape"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "celluloid"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "screenplay"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "talkie"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "cine"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "cinematics"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "cinematograph"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "moving picture"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "photoplay"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "silent"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "silver screen"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "talking picture"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "optical disk"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "videodisc"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "videodisk"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "optical disc"
+      },
+      {
+        "intent": "entertainment-movies & dvds",
+        "text": "laser disc"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "community"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "press"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "tabloid"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "metropolitan"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "rag"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "scandal sheet"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "book"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "bulletin"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "diurnal"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "gazette"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "journal"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "mag"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "magazine"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "organ"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "paper"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "periodical"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "review"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "serial"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "zine"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "booklet"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "brochure"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "manual"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "newsletter"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "newspaper"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "pamphlet"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "broadside"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "circular"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "digest"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "glossy"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "pulp"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "quarterly"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "semiweekly"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "sheet"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "slick"
+      },
+      {
+        "intent": "entertainment-newspaper & magazines",
+        "text": "throwaway"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "private club"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "recreational club"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "social activities club"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "working men's clubs"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "association"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "fraternity"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "society"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "sorority"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "club"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "group"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "fellowship"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "alliance"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "body"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "band"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "partnership"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "league"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "community"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "clique"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "circle"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "federation"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "team"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "union"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "organizationus"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "ring"
+      },
+      {
+        "intent": "entertainment-social club",
+        "text": "guild"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "sport"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "athletics"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "game"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "exercise"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "games"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "play"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "physical activity"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "adventure sports"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "fun"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "pastime"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "action"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "amusement"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "ball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "disport"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "diversion"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "frolic"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "gaiety"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "picnic"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "pleasure"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "recreation"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "fun and games"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "snorkeling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "olympic swimming"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "bodyboarding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "diving"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "freediving"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "paddleboarding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "rowing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "scuba diving"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "synchronized swimming"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "strength and agility sports"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "aerobics"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "aikido"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "archery"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "artistic gymnastics"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "baton twirling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "bodybuilding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "boxing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "cross-country equestrianism"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "cross-country running"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "cycling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "discus throw"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "equestrianism"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "fencing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "figure skating"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "horse racing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "judo"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "karate"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "kendo"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "kickboxing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "kung fu"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "long jump"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "marathon"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "mixed martial arts"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "muay thai"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "pole vault"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "powerlifting"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "racewalking"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "rhythmic gymnastics"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "sprint"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "sumo"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "sword-fighting"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "trail running"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "trampolining"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "tumbling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "ultimate"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "walking"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "weightlifting"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "wrestling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "ball sports"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "baseball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "basketball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "tennis"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "badminton"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "bowling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "cricket"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "curling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "dodgeball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "football"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "golf"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "handball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "hockey"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "horseball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "hurling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "ice hockey"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "kickball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "lacrosse"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "paddle"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "polo"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "racquetball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "rinkball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "rounders"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "rugby"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "soccer"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "softball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "squash"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "table tennis"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "unicycling basketball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "unicycling handball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "unicycling hockey"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "volleyball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "water polo"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "base jumping"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "abseiling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "bouldering"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "gliding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "kiteboarding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "kitesurfing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "parachuting"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "paragliding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "parasailing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "skateboarding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "skydiving"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "skysurfing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "snowboarding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "wakeoarding"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "windsurfing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "climbing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "cross-country cycling"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "hiking"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "mountaineering"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "motorised sports"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "deportes de motor"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "drifting"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "formula racing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "kart racing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "rallycross"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "mind sports"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "airsoft"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "aquathlon"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "ballooning"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "barrel racing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "biathlon"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "capoeira"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "cheerleading"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "crossfit"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "dancing"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "darts"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "decathlon"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "foosball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "gymkhana"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "heptathlon"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "jogging"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "laser tag"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "paintball"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "parkour"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "petanque"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "pool"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "triathlon"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "bridge"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "chess"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "mahjong"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "mountain sports"
+      },
+      {
+        "intent": "entertainment-sport",
+        "text": "extreme sports"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "game"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "games"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "bout"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "competition"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "contest"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "event"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "match"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "matchup"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "meet"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "sweepstakes"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "tournament"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "tourney"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "battles"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "conflicts"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "skirmishes"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "struggles"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "tussles"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "championships"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "finals"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "nightcaps"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "derbies"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "biathlons"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "decathlons"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "heptathlons"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "pentathlons"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "triathlons"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "marathons"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "races"
+      },
+      {
+        "intent": "entertainment-games",
+        "text": "volleys"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "entertainment-arts",
+        "synonyms": [
+          "artt",
+          "artiste",
+          "ar",
+          "craft"
+        ]
+      },
+      {
+        "value": ":entertainment-music",
+        "synonyms": [
+          "misic",
+          "rok",
+          "hous",
+          "houce",
+          "loung",
+          "jaz"
+        ]
+      },
+      {
+        "value": ":entertainment-movies & dvds",
+        "synonyms": [
+          "filmmm",
+          "movi",
+          "vedeo",
+          "dvd",
+          "cd",
+          "films"
+        ]
+      },
+      {
+        "value": ":entertainment-newspaper & magazines",
+        "synonyms": [
+          "magazin",
+          "bok",
+          "boock"
+        ]
+      },
+      {
+        "value": ":entertainment--social club",
+        "synonyms": [
+          "cluub",
+          "teem",
+          "federetion"
+        ]
+      },
+      {
+        "value": "entertainment-games",
+        "synonyms": [
+          "foot",
+          "geme"
+        ]
+      }
+    ]
+  }
+}

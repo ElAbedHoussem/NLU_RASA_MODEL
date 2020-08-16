@@ -1,0 +1,269 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "advisory"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "consultative"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "counseling"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "hortative"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "recommendatory"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "admonishing"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "admonitory"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "cautionary"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "cautioning"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "exemplary"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "monitory"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "premonitory"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "warning"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "aiding"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "assisting"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "helping"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "didactic"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "moralistic"
+      },
+      {
+        "intent": "personal services-advisory and consulting",
+        "text": "moralizing"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "commercial"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "economic"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "fiscal"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "monetary"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "banking"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "budgeting"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "financial facilities"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "finance branch"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "financial services"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "finance services"
+      },
+      {
+        "intent": "personal services-financial services",
+        "text": "finance"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "barrister"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "counselor"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "legal expert"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "attorney"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "counsel"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "counsellor"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "defender"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "judge"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "justice"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "lawyer"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "magistrate"
+      },
+      {
+        "intent": "personal services-lawyer",
+        "text": "advocate"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "care"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "conservation"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "preservation"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "supply"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "upkeep"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "adjustment"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "improvement"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "overhaul"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "reconstruction"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "rehabilitation"
+      },
+      {
+        "intent": "personal services-repairs & maintenance",
+        "text": "replacement"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "internal revenue service"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "tax authorities"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "revenue service"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "tax office"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "revenue authority"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "fiscal services"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "taxation services"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "tax services"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "tax administration"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "tax authority"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "tax agency"
+      },
+      {
+        "intent": "personal services-taxes",
+        "text": "fiscal authorities"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

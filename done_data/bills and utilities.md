@@ -1,0 +1,153 @@
+## intent:bills and utilities-television
+- tv set
+- audio
+- box
+- station
+- video
+- tv
+- baby-sitter
+- eye
+- receiver
+- telly
+- tube
+- boob tube
+- idiot box
+- small screen
+- telly
+- television set
+- broadcasting
+- video
+- tv
+- broadcast
+- screen
+- news
+- network
+- box
+- telecast
+- small screen
+- media
+- idiot box
+- pay-tv
+- television receiver
+- tv set
+- broadcaster
+- boob tube
+- television broadcasting
+- television station
+- entertainment system
+- telecasting
+- television system
+- wobbly jelly
+- television network
+- tidings
+- news medium
+- impedance
+- news service
+- wire service
+- newscasts
+- television programmes
+- information center
+- information medium
+- information industry
+- television transmitter
+- television tube
+- tube
+- gogglebox
+- tv-set
+- telecommunication system
+
+## intent:bills and utilities-home phone
+- home telephone
+- landline phone
+- landline telephone
+- land line
+- fixed-line telephone
+- stationary telephone
+- stationary phone
+- landline
+- fixed telephone
+- stationary telephone
+- stationary phone
+- landline
+- fixed telephone
+- fixed phone
+- hard line
+- private telephone
+- main line
+- home telephone number
+- fixed-line phone
+- corded telephone
+- corded phone
+- desk telephone
+- desk phone
+- conventional phone
+- conventional telephone
+- house phone
+- fixed line telephone
+- house number
+- personal cell
+- land-line
+- burn phone
+- fixed-line
+
+## intent:bills and utilities-internet
+- the information superhighway
+- the net
+- the web
+- the world wide web
+- cyberspace
+- the cloud
+- blogosphere
+- the interweb
+- blogostream
+- extranet
+- podosphere
+
+## intent:bills and utilities-mobile phone
+- car phone
+- cell
+- cellphone
+- cell phone
+- cell telephone
+- cellular
+- cellular mobile
+- cellular phone
+- cellular telephone
+- digital phone
+- handphone
+- mobile
+- mobile telephone
+- radiotelephone
+- wireless phone
+- iphone
+- smartphone
+
+## intent:bills and utilities-utilities
+- electricity
+- power
+- current
+- energy
+- mains
+- galvanism
+- static
+- electric power
+- electromagneticism
+- electron
+- heat
+- hydro
+- ignition
+- juice
+- leccy
+- light
+- magneticism
+- power supply
+- service
+- spark
+- tension
+- voltage
+- electrical energy
+- energized matter
+- hot stuff
+- electric energy
+- electrical power
+- water power

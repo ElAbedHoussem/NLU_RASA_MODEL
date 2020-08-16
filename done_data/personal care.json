@@ -1,0 +1,253 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "personal care-hair",
+        "text": "hair dryer"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair clip"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "comb"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair iron"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair roller"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair clipper"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hairbrush"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hairpin"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "headband"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "kanzashi"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "ribbon"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair tie"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "scissors"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "shower cap"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair coloring"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair conditioner"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair gel"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair glue"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair mousse"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair serum"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair spray"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair tonic"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "hair wax"
+      },
+      {
+        "intent": "personal care-hair",
+        "text": "pomade"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "beauty parlor"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "barber"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "hair salon"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "hairdressing salon"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "salon de beauté"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "styling salon"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "tonsorium"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "beauty salon"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "beauty treatment"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "cosmetology"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "skin care"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "cosmetic treatments"
+      },
+      {
+        "intent": "personal care-beauty",
+        "text": "beauty treatments"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "hotel"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "lodge"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "sanitarium"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "sauna"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "whirlpool"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "day spa"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "rub-down"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "rubbing"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "manipulation"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "kneading"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "reflexology"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "shiatsu"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "acupressure"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "chiropractic treatment"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "palpation"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "swedish"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "aromatherapy massage"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "hot stone"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "deep tissue"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "thai massage"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "prenatal"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "sports massage"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "finding a therapist"
+      },
+      {
+        "intent": "personal care-spa & massage",
+        "text": "cost"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

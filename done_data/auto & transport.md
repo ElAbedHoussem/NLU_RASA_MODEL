@@ -1,0 +1,178 @@
+## intent:auto & transport-auto insurance
+- auto insurance
+- automobile insurance
+- motor insurance
+- motor vehicle insurance
+- vehicle insurance
+- off the car
+- insurance
+- insurance of land vehicles
+- insurance purchased for cars
+- insurance purchased for trucks
+- insurance purchased for motorcycles
+- insurance purchased for road vehicles
+- insurance purchased for vehicles
+- insurance purchased for land vehicles
+- insurance for land vehicles
+- insurance for vehicles
+- insurance for cars
+- insurance for trucks
+- insurance for motorcycles
+- insurance for road vehicles
+- insurance purchased by vehicle owners
+- insurance for loss of a car
+- insurance for damage to cars
+- automotive insurance
+
+## intent:auto & transport-auto payment
+- autopay
+- automatic payment
+- payment
+- reimbursement
+- remittance
+- reparation
+- repayment
+- compensation
+- disbursement
+- remitment
+- remittance
+- remunerations
+
+## intent:auto & transport-parking
+- park
+- car park
+- parking 
+- garage
+- deploying
+- emplacing
+- fixing
+- locating
+- planting
+- positioning
+- setting
+- situating
+- stationing
+
+## intent:auto & transport-public transport
+- lrt
+- busline
+- light rail
+- mass transit
+- metro
+- rail rapid transit
+- railway
+- rapid transit
+- subway
+- urban transportation service
+- bus  
+- train
+
+## intent:auto & transport-service & auto parts
+- car parts
+- automotive component
+- spares
+- auto body
+- automobile parts
+- automotive parts
+- spare parts
+- motor vehicle parts
+- auto part
+- automatic parts
+- automotive components
+- motor vehicle spare parts
+- autoparts
+- auto-parts
+- auto supply
+- spare part
+- components
+- replacement parts
+- auto parts store
+- car part
+- parts
+- elements
+- titanium auto part as set
+- supplies
+- self dispatch
+- component parts
+- sections
+- split
+- aspects
+- automobile spare parts
+
+## intent:auto & transport-taxi
+- chauffeur
+- hack
+- taxicab
+- hack
+- ride
+- cab fare
+- cabbie
+- cab
+- uber
+- cabdriver
+- taxis
+- minicab
+- chit
+- car service
+- by cab
+- cabby
+- taxi cab
+- driver
+- cab ride
+- by taxi
+- cab driver
+- taxi driver
+- taxi out
+- in a taxi
+
+## intent:auto & transport-gas & fuel
+- petrol
+- gasoline
+- incite
+- feed
+- power
+- gas
+- kerosene
+- stimulate
+- diesel
+- inflame
+- fire
+- petroleum
+- firewood
+- fuelwood
+- nourish
+- kindling
+- firing
+- combustible
+- supply
+- juice
+- fuel oil
+- nourishment
+- encourage
+- food
+- gasoil
+- provoke
+- excite
+- feeding
+- wood
+- refuel
+- charge
+- stir up
+- refueling
+- oil
+- refuelling
+- stoke up
+- sustain
+- fuelling
+- nurture
+- stoking
+- ammunition
+- propellant
+- fill up
+- exacerbate
+- benzine
+- fire wood
+- energetics
+- combustion
+- tank
+- kindle

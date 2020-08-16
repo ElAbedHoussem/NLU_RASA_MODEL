@@ -1,0 +1,192 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "abm"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "atm"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "card"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "cash card"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "cash dispenser"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "cash machine"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "cashpoint"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "bread"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "bucks"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "cabbage"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "change"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "chips"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "coin"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "money"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "moola"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "needful"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "pelf"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "scratch"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "shekels"
+      },
+      {
+        "intent": "uncategorized-cash & atm",
+        "text": "dab"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "check"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "chequebook"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "checkbook"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "cheque book"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "check book"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "cheque-book"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "passbook"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "checkbooks"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "check card"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "cheques"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "checks"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "cheque"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "legal pad"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "bank book"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "cheque books"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "bank balance"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "ration card"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "chequebooks"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "counterfoil"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "ledger"
+      },
+      {
+        "intent": "uncategorized-check",
+        "text": "blotter"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "uncategorized-cash & atm",
+        "synonyms": [
+          "atmm",
+          "etm",
+          "cashh",
+          "cach",
+          "cartt"
+        ]
+      },
+      {
+        "value": "uncategorized-check",
+        "synonyms": [
+          "checke",
+          "chech",
+          "chek"
+        ]
+      }
+    ]
+  }
+}

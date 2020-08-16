@@ -1,0 +1,425 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "travel-air travel",
+        "text": "aviation"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "air transportation"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "air transport"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "airline"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "airlift"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "air traffic"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "aircraft"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "flights"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "air freight"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "airline industry"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "airfare"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "plane ride"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "air"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "air-transport"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "air operations"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "air service"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "aeronautics"
+      },
+      {
+        "intent": "travel-air travel",
+        "text": "flight"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "motel"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "room"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "hostel"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "house"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "hostelry"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "boarding house"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "staff"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "location"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "lodge"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "resort"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "bed and breakfast"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "accommodation"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "restaurant"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "guest house"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "hospitality"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "tavern"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "lodging"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "breakfast"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "place"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "car park"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "at the hotel"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "carpark"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "parking facilities"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "reception desk"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "guesthouse"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "rooms"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "comfortableness"
+      },
+      {
+        "intent": "travel-hotel",
+        "text": "in a hotel"
+      },
+      {
+        "intent": "travel-rental car & taxi",
+        "text": "letting"
+      },
+      {
+        "intent": "travel-rental car & taxi",
+        "text": "self-drive"
+      },
+      {
+        "intent": "travel-rental car & taxi",
+        "text": "u-drive"
+      },
+      {
+        "intent": "travel-rental car & taxi",
+        "text": "hire car"
+      },
+      {
+        "intent": "travel-rental car & taxi",
+        "text": "car rental"
+      },
+      {
+        "intent": "travel-rental car & taxi",
+        "text": "lease"
+      },
+      {
+        "intent": "travel-rental car & taxi",
+        "text": "you-drive"
+      },
+      {
+        "intent": "travel-rental car & taxi",
+        "text": "rental"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "holiday"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "break"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "leave"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "rest"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "time off"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "recess"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "leave of absence"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "sabbatical"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "holidays"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "furlough"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "leisure"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "vacationing"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "summer"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "recreation"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "spring break"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "take a holiday"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "trip"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "stay"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "holidaying"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "tour"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "respite"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "day off"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "liberty"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "have a rest"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "take a rest"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "vacay"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "relax"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "vacation time"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "take a vacation"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "relaxation"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "sojourn"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "visit"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "resting"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "leisure time"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "leave period"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "vacations"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "go on vacation"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "sleep"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "travel"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "pause"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "take some time off"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "recreational"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "time out"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "go on a vacation"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "take time off"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "take vacations"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "go on holiday"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "weekend"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "have a holiday"
+      },
+      {
+        "intent": "travel-vacation",
+        "text": "repose"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

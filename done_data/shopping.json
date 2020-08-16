@@ -1,0 +1,2016 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "shopping-pets",
+        "text": "dogs"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "cats"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "muntjac deer"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "raccoons"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "ring-tail possum"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "short-tailed possum."
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "parakeets"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "cockatiels"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "lovebirds"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "conures"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "lorikeets"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "rabbits"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "guinea pigs"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "mice"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "hamsters"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "gerbils"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "rats"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "hedgehogs"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "ferrets"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "chinchillas"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "squirrels"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "sugar gliders"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "horses"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "burros"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "goats"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "llamas"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "pot-bellied pigs"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "aviary birds"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "ducks"
+      },
+      {
+        "intent": "shopping-pets",
+        "text": "geese"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "bodega"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "greengrocery"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "minimarket"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "supermarket"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "delicatessen"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "market"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "store"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "beverages"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "coffee"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "tea"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "juice"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "soda"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "bread"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "bakery"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "sandwich loaves"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "dinner rolls"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "tortillas"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "bagels"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "canned"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "jarred goods"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "vegetables"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "spaghetti sauce"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "ketchup"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "dairy"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "cheeses"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "eggs"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "milk"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "yogurt"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "butter"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "dry"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "baking goods"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "cereals"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "flour"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "sugar"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "pasta"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "mixes"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "frozen foods"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "waffles"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "individual meals"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "ice cream"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "meat"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "lunch meat"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "poultry"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "beef"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "pork"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "produce"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "fruits"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "cleaners"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "laundry detergent"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "dishwashing liquid"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "paper towels"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "toilet paper"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "aluminum foil"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "sandwich bags"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "personal care"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "shampoo"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "soap"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "hand soap"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "shaving cream"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "baby items"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "pet items"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "batteries"
+      },
+      {
+        "intent": "shopping-groceries",
+        "text": "greeting cards"
+      },
+      {
+        "intent": "shopping-general",
+        "text": "electronic"
+      },
+      {
+        "intent": "shopping-general",
+        "text": "foods"
+      },
+      {
+        "intent": "shopping-general",
+        "text": "clothes"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "shoes"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "skirt"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "bikini"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "dress pants"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "jumper"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "sneakers"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "hoodie"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "vest"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "high heels"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "flip flops"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "handbag"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "tank top"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "singlet"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "boots"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "shorts"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "polo shirt"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "umbrella"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "dress"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "hawaiian shirt"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "mittens"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "socks"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "swimsuit"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "trench coat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "winter coat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "straw hat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "cap"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "scarf"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "sunglasses"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "apron"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "necklace"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "watch"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "tie"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "bow tie"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "purse"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "ring"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "gloves"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "stockings"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "earmuffs"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "hair band"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "safety pin"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "pocket watch"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "beanie"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "beret"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "derby hat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "helmet"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "top hat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "mortar board"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "overalls"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "baby apron"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "diaper"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "sweater"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "shirt"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "jeans"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "suit"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "business shoes"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "cardigan"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "jacket"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "sport shoes"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "sleeveless shirt"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "long-sleeve top"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "bathrobe"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "cargo pants"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "blazer"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "t-shirt"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "belt"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "underpants"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "waistcoat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "pullover"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "glasses"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "wallet"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "wedding dress"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "sheath dress"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "gym clothes"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "bra"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "long coat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "uniform"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "coat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "thong"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "hat"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "earrings"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "perfume"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "bracelet"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "slip"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "high-heeled shoes"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "flip-flops"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "fleece jacket"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "one-piece bathing suit"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "swim trunks"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "toner"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "mirror"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "brightener"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "makeup kit"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "nail polish"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "lip gloss"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "lip liner"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "foundation"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "eyeliner"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "eye shadow"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "lipstick"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "mascara"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "cleanser"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "tanning lotion"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "bronzer"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "moisturizer"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "face cream"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "concealer"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "primer"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "blush"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "brush"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "hand lotion"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "razor"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "tissues"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "hand mirror"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "wet wipe"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "toothbrush"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "sunscreen"
+      },
+      {
+        "intent": "shopping-clothing",
+        "text": "deodorant"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "armchair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "armoire"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bar stool"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bassinet"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "beach chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bean bag chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bed"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bed table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bench"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bentwood rocker"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bergere"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bookcase"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bookshelf"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "breakfront"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "buffet"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bunk bed"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "bureau"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "cabinet"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "canopy bed"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "captain's chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "card table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "carpet"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "cart"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "chaise lounge"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "chandelier"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "chest"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "chest of drawers"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "china cabinet"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "clothes valet"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "club chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "coffee table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "console"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "cot"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "couch"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "cradle"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "credenza"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "crib"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "cubbies"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "cupboard"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "curio"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "curtains"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "cushion"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "deck chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "desk"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "desk chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "dining room table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "director's chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "display cabinet"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "divan"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "drapery"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "drapes"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "dresser"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "game table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "garden bench"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "gateleg table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "glider rocker"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "grandfather clock"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "pantry"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "park bench"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "patio chair"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "patio table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "pew"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "piano bench"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "picnic table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "pillow"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "porch swing"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "table"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "tansu"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "tea cart"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "throne"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "throw rug"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "trundle bed"
+      },
+      {
+        "intent": "shopping-home",
+        "text": "tuffet"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "action and adventure"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "architecture"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "alternate history"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "autobiography"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "anthology"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "biography"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "chick lit"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "business"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "economics"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "children"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "crafts"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "hobbies"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "classic"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "cookbook"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "comic book"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "diary"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "coming-of-age"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "dictionary"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "crime"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "encyclopedia"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "drama"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "guide"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "fairytale"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "health"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "fantasy"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "history"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "graphic novel"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "home and garden"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "historical fiction"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "humor"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "horror"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "journal"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "mystery"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "math"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "paranormal romance"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "memoir"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "picture book"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "philosophy"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "poetry"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "prayer"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "political thriller"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "religion"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "romance"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "textbook"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "satire"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "true crime"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "science fiction"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "review"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "short story"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "science"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "suspense"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "self help"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "thriller"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "sports and leisure"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "western"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "travel"
+      },
+      {
+        "intent": "shopping-books",
+        "text": "young adult"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "audio system"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "home audio"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "avionics"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "car audio"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "car navigation"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "copy machine"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "computer"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "personal computer"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "digital camera"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "display device"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "digital video camera"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "digital video player"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "digital video recorder"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "fax"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "global positioning system"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "hard disk drive"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "multifunction printer"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "mechatronics"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "mobile phone"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "network device"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "portable media player"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "printer"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "semiconductor"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "video cassette recorder"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "video game"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "video game developer"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "video game publisher"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "indie game developer"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "transportation electronics system"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "television"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "wireless devices"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "microsoft office"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "acrobat reader"
+      },
+      {
+        "intent": "shopping-electronics & software",
+        "text": "adobe"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "competitive"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "outdoor"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "indoor"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "creative"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "racing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "martial arts"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "self defense"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "air soft"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "american football"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "archery"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "australian football"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "badminton"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "baton twirling"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "baseball"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "basketball"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "beach volleyball"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "bicycling"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "billiards"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "bodybuilding"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "bowling"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "boxing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "cheer leading"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "chess tournaments"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "cooking competitions"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "color guard"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "cricket"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "curling"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "antiques"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "artwork"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "book"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "buttons"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "card"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "coin"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "comic books"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "deltiology (postcard collecting)"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "diecast cars"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "elements"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "guns"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "hats"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "insect"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "metal"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "movie memorabilia"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "music albums and records"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "sea glass"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "seashells"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "cycling"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "fencing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "roller derby"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "roller skating"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "rugby"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "sailing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "skateboarding"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "skeet shooting"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "skiing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "snowboarding"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "soccer"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "association football"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "speed skating"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "surfing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "swimming"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "field hockey"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "figure skating"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "fish tournaments"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "flag football"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "floor-ball"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "golfing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "handball"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "dancing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "darts"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "debate"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "disc golf"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "dodge-ball"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "dog sports"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "falconry"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "collecting"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "animal"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "music"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "writing"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "unusual"
+      },
+      {
+        "intent": "shopping-hobbies",
+        "text": "cooking"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "rope"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "cord"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "webbing"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "carabiners"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "quick-draws"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "harnesses"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "belay devices"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "rappel devices"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "figure eight"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "rescue eight"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "rappel rack"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "ascenders"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "sling"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "daisy chain"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "protection devices"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "nuts"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "hexes"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "spring-loaded clamming devices"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "tricams"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "hang-boards"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "grip savers"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "campus boards"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "bachar ladder"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "specialized clothing"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "helmet"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "climbing shoes"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "belay gloves"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "miscellaneous equipment"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "tape"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "haul bag"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "gear sling"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "chalk"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "baseball bat"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "baseball ball"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "gloves"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "helmets"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "catchers gear"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "bags"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "tee ball"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "training aids"
+      },
+      {
+        "intent": "shopping-sporting goods",
+        "text": "back stops"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "entertainment-clothing",
+        "synonyms": [
+          "clothing",
+          "clothes",
+          "djeen",
+          "shoos",
+          "shoose"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "health & fitness-dentist",
+        "text": "medical man"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "exodontist"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "endodontist"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "periodontist"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "medical"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "practitioner"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "dental"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "orthodontist"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "prosthodontist"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "tooth doctor"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "pedodontist"
+      },
+      {
+        "intent": "health & fitness-dentist",
+        "text": "dental surgeon"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "expert"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "physician"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "professor"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "scientist"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "specialist"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "surgeon"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "md"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "bones"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "doc"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "healer"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "intern"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "medic"
+      },
+      {
+        "intent": "health & fitness-doctor",
+        "text": "medico"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "eye service"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "ophthalmology"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "opthalmology"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "ophthalmologist"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "ophthalmologic apparatus"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "ophthalmologic"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "opthalmic"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "ophthalmological"
+      },
+      {
+        "intent": "health & fitness-eye care",
+        "text": "ophthal"
+      },
+      {
+        "intent": "health & fitness-pharmacy",
+        "text": "apothecary"
+      },
+      {
+        "intent": "health & fitness-pharmacy",
+        "text": "dispensary"
+      },
+      {
+        "intent": "health & fitness-pharmacy",
+        "text": "drugstore"
+      },
+      {
+        "intent": "health & fitness-pharmacy",
+        "text": "pharmacopoeia"
+      },
+      {
+        "intent": "health & fitness-pharmacy",
+        "text": "pharmacy"
+      },
+      {
+        "intent": "health & fitness-pharmacy",
+        "text": "pharmaceutics"
+      },
+      {
+        "intent": "health & fitness-pharmacy",
+        "text": "medical specialty"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "gymnasium"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "spa"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "health spa"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "health club"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "aerobics studio"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "exercise room"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "fitness centre"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "leisure centre"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "sports centre"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "sports club"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "sports hall"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "ring"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "stadium"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "coliseum"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "amphitheatreuk"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "amphitheaterus"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "ground"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "field"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "theatreuk"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "dome"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "showground"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "rink"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "fitness center"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "health farm"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "theaterus"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "circus"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "hippodrome"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "pit"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "course"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "heafield"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "park"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "square"
+      },
+      {
+        "intent": "health & fitness-gym",
+        "text": "stage"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "athletics"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "game"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "exercise"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "games"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "play"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "physical activity"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "adventure sports"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "fun"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "pastime"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "action"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "amusement"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "ball"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "disport"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "diversion"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "frolic"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "gaiety"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "picnic"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "pleasure"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "recreation"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "fun and games"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "snorkeling"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "olympic swimming"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "bodyboarding"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "diving"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "freediving"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "paddleboarding"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "rowing"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "scuba diving"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "synchronized swimming"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "strength and agility sports"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "aerobics"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "aikido"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "archery"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "artistic gymnastics"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "baton twirling"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "bodybuilding"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "boxing"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "cross-country equestrianism"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "cross-country running"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "cycling"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "discus throw"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "equestrianism"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "fencing"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "figure skating"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "horse racing"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "judo"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "karate"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "kendo"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "kickboxing"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "kung fu"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "long jump"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "marathon"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "mixed martial arts"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "muay thai"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "pole vault"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "powerlifting"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "racewalking"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "rhythmic gymnastics"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "sprint"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "sumo"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "sword-fighting"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "trail running"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "trampolining"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "tumbling"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "ultimate"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "walking"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "weightlifting"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "wrestling"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "ball sports"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "baseball"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "basketball"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "tennis"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "badminton"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "bowling"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "cricket"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "curling"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "dodgeball"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "football"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "golf"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "handball"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "hockey"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "horseball"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "hurling"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "ice hockey"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "kickball"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "lacrosse"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "paddle"
+      },
+      {
+        "intent": "health & fitness-sports",
+        "text": "polo"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

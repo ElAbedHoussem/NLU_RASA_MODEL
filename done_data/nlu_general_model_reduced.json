@@ -1,0 +1,2323 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "entertainment",
+        "text": "craft"
+      },
+      {
+        "intent": "entertainment",
+        "text": "profession"
+      },
+      {
+        "intent": "entertainment",
+        "text": "adroitness"
+      },
+      {
+        "intent": "entertainment",
+        "text": "aptitude"
+      },
+      {
+        "intent": "entertainment",
+        "text": "artistry"
+      },
+      {
+        "intent": "entertainment",
+        "text": "craftsmanship"
+      },
+      {
+        "intent": "entertainment",
+        "text": "dexterity"
+      },
+      {
+        "intent": "entertainment",
+        "text": "expertise"
+      },
+      {
+        "intent": "entertainment",
+        "text": "facility"
+      },
+      {
+        "intent": "entertainment",
+        "text": "imagination"
+      },
+      {
+        "intent": "entertainment",
+        "text": "ingenuity"
+      },
+      {
+        "intent": "entertainment",
+        "text": "inventiveness"
+      },
+      {
+        "intent": "entertainment",
+        "text": "knack"
+      },
+      {
+        "intent": "entertainment",
+        "text": "know-how"
+      },
+      {
+        "intent": "entertainment",
+        "text": "knowledge"
+      },
+      {
+        "intent": "entertainment",
+        "text": "mastery"
+      },
+      {
+        "intent": "entertainment",
+        "text": "animation"
+      },
+      {
+        "intent": "entertainment",
+        "text": "artt"
+      },
+      {
+        "intent": "entertainment",
+        "text": "artiste"
+      },
+      {
+        "intent": "entertainment",
+        "text": "game"
+      },
+      {
+        "intent": "entertainment",
+        "text": "playing"
+      },
+      {
+        "intent": "entertainment",
+        "text": "ar"
+      },
+      {
+        "intent": "entertainment",
+        "text": "alternative"
+      },
+      {
+        "intent": "entertainment",
+        "text": "art punk"
+      },
+      {
+        "intent": "entertainment",
+        "text": "alternative rock"
+      },
+      {
+        "intent": "entertainment",
+        "text": "britpunk"
+      },
+      {
+        "intent": "entertainment",
+        "text": "college rock"
+      },
+      {
+        "intent": "entertainment",
+        "text": "anime"
+      },
+      {
+        "intent": "entertainment",
+        "text": "blues"
+      },
+      {
+        "intent": "entertainment",
+        "text": "avant-garde"
+      },
+      {
+        "intent": "entertainment",
+        "text": "ballet"
+      },
+      {
+        "intent": "entertainment",
+        "text": "string quartet"
+      },
+      {
+        "intent": "entertainment",
+        "text": "chant"
+      },
+      {
+        "intent": "entertainment",
+        "text": "choral"
+      },
+      {
+        "intent": "entertainment",
+        "text": "singing"
+      },
+      {
+        "intent": "entertainment",
+        "text": "picture"
+      },
+      {
+        "intent": "entertainment",
+        "text": "show"
+      },
+      {
+        "intent": "entertainment",
+        "text": "videotape"
+      },
+      {
+        "intent": "entertainment",
+        "text": "celluloid"
+      },
+      {
+        "intent": "entertainment",
+        "text": "screenplay"
+      },
+      {
+        "intent": "entertainment",
+        "text": "talkie"
+      },
+      {
+        "intent": "entertainment",
+        "text": "vedeo"
+      },
+      {
+        "intent": "entertainment",
+        "text": "dvd"
+      },
+      {
+        "intent": "entertainment",
+        "text": "cd"
+      },
+      {
+        "intent": "entertainment",
+        "text": "booklet"
+      },
+      {
+        "intent": "entertainment",
+        "text": "brochure"
+      },
+      {
+        "intent": "entertainment",
+        "text": "manual"
+      },
+      {
+        "intent": "entertainment",
+        "text": "newsletter"
+      },
+      {
+        "intent": "entertainment",
+        "text": "newspaper"
+      },
+      {
+        "intent": "entertainment",
+        "text": "pamphlet"
+      },
+      {
+        "intent": "entertainment",
+        "text": "periodical"
+      },
+      {
+        "intent": "entertainment",
+        "text": "broadside"
+      },
+      {
+        "intent": "entertainment",
+        "text": "circular"
+      },
+      {
+        "intent": "entertainment",
+        "text": "digest"
+      },
+      {
+        "intent": "entertainment",
+        "text": "glossy"
+      },
+      {
+        "intent": "entertainment",
+        "text": "organ"
+      },
+      {
+        "intent": "entertainment",
+        "text": "pulp"
+      },
+      {
+        "intent": "entertainment",
+        "text": "quarterly"
+      },
+      {
+        "intent": "entertainment",
+        "text": "review"
+      },
+      {
+        "intent": "entertainment",
+        "text": "semiweekly"
+      },
+      {
+        "intent": "entertainment",
+        "text": "sheet"
+      },
+      {
+        "intent": "entertainment",
+        "text": "slick"
+      },
+      {
+        "intent": "entertainment",
+        "text": "throwaway"
+      },
+      {
+        "intent": "entertainment",
+        "text": "conflicts"
+      },
+      {
+        "intent": "entertainment",
+        "text": "skirmishes"
+      },
+      {
+        "intent": "entertainment",
+        "text": "struggles"
+      },
+      {
+        "intent": "entertainment",
+        "text": "tussles"
+      },
+      {
+        "intent": "entertainment",
+        "text": "volleys"
+      },
+      {
+        "intent": "entertainment",
+        "text": "foot"
+      },
+      {
+        "intent": "entertainment",
+        "text": "geme"
+      },
+      {
+        "intent": "education",
+        "text": "expenditure"
+      },
+      {
+        "intent": "education",
+        "text": "instruction"
+      },
+      {
+        "intent": "education",
+        "text": "lessons"
+      },
+      {
+        "intent": "education",
+        "text": "price"
+      },
+      {
+        "intent": "education",
+        "text": "schooling"
+      },
+      {
+        "intent": "education",
+        "text": "teaching"
+      },
+      {
+        "intent": "education",
+        "text": "training"
+      },
+      {
+        "intent": "education",
+        "text": "tutelage"
+      },
+      {
+        "intent": "education",
+        "text": "tutoring"
+      },
+      {
+        "intent": "education",
+        "text": "education"
+      },
+      {
+        "intent": "education",
+        "text": "debt"
+      },
+      {
+        "intent": "education",
+        "text": "due"
+      },
+      {
+        "intent": "education",
+        "text": "home loan"
+      },
+      {
+        "intent": "education",
+        "text": "liability"
+      },
+      {
+        "intent": "education",
+        "text": "loan"
+      },
+      {
+        "intent": "education",
+        "text": "outstanding"
+      },
+      {
+        "intent": "education",
+        "text": "bank loan"
+      },
+      {
+        "intent": "education",
+        "text": "educational loan"
+      },
+      {
+        "intent": "education",
+        "text": "government loan"
+      },
+      {
+        "intent": "education",
+        "text": "subsidized loan"
+      },
+      {
+        "intent": "education",
+        "text": "album"
+      },
+      {
+        "intent": "education",
+        "text": "booklet"
+      },
+      {
+        "intent": "education",
+        "text": "brochure"
+      },
+      {
+        "intent": "education",
+        "text": "copy"
+      },
+      {
+        "intent": "education",
+        "text": "dictionary"
+      },
+      {
+        "intent": "education",
+        "text": "edition"
+      },
+      {
+        "intent": "education",
+        "text": "essay"
+      },
+      {
+        "intent": "education",
+        "text": "fiction"
+      },
+      {
+        "intent": "education",
+        "text": "magazine"
+      },
+      {
+        "intent": "education",
+        "text": "manual"
+      },
+      {
+        "intent": "education",
+        "text": "novel"
+      },
+      {
+        "intent": "education",
+        "text": "pamphlet"
+      },
+      {
+        "intent": "education",
+        "text": "paperback"
+      },
+      {
+        "intent": "education",
+        "text": "publication"
+      },
+      {
+        "intent": "education",
+        "text": "text"
+      },
+      {
+        "intent": "education",
+        "text": "textbook"
+      },
+      {
+        "intent": "education",
+        "text": "tome"
+      },
+      {
+        "intent": "education",
+        "text": "volume"
+      },
+      {
+        "intent": "education",
+        "text": "work"
+      },
+      {
+        "intent": "education",
+        "text": "writing"
+      },
+      {
+        "intent": "shopping",
+        "text": "dogs"
+      },
+      {
+        "intent": "shopping",
+        "text": "cats"
+      },
+      {
+        "intent": "shopping",
+        "text": "muntjac deer"
+      },
+      {
+        "intent": "shopping",
+        "text": "raccoons"
+      },
+      {
+        "intent": "shopping",
+        "text": "ring-tail possum"
+      },
+      {
+        "intent": "shopping",
+        "text": "short-tailed possum."
+      },
+      {
+        "intent": "shopping",
+        "text": "parakeets"
+      },
+      {
+        "intent": "shopping",
+        "text": "cockatiels"
+      },
+      {
+        "intent": "shopping",
+        "text": "lovebirds"
+      },
+      {
+        "intent": "shopping",
+        "text": "conures"
+      },
+      {
+        "intent": "shopping",
+        "text": "lorikeets"
+      },
+      {
+        "intent": "shopping",
+        "text": "health"
+      },
+      {
+        "intent": "shopping",
+        "text": "fantasy"
+      },
+      {
+        "intent": "shopping",
+        "text": "history"
+      },
+      {
+        "intent": "shopping",
+        "text": "graphic novel"
+      },
+      {
+        "intent": "shopping",
+        "text": "home and garden"
+      },
+      {
+        "intent": "shopping",
+        "text": "historical fiction"
+      },
+      {
+        "intent": "shopping",
+        "text": "humor"
+      },
+      {
+        "intent": "shopping",
+        "text": "horror"
+      },
+      {
+        "intent": "shopping",
+        "text": "journal"
+      },
+      {
+        "intent": "shopping",
+        "text": "mystery"
+      },
+      {
+        "intent": "shopping",
+        "text": "transportation electronics system"
+      },
+      {
+        "intent": "shopping",
+        "text": "television"
+      },
+      {
+        "intent": "shopping",
+        "text": "wireless devices"
+      },
+      {
+        "intent": "shopping",
+        "text": "microsoft office"
+      },
+      {
+        "intent": "shopping",
+        "text": "acrobat reader"
+      },
+      {
+        "intent": "shopping",
+        "text": "adobe"
+      },
+      {
+        "intent": "shopping",
+        "text": "competitive"
+      },
+      {
+        "intent": "shopping",
+        "text": "outdoor"
+      },
+      {
+        "intent": "shopping",
+        "text": "indoor"
+      },
+      {
+        "intent": "shopping",
+        "text": "ascenders"
+      },
+      {
+        "intent": "shopping",
+        "text": "sling"
+      },
+      {
+        "intent": "shopping",
+        "text": "gear sling"
+      },
+      {
+        "intent": "shopping",
+        "text": "chalk"
+      },
+      {
+        "intent": "shopping",
+        "text": "baseball bat"
+      },
+      {
+        "intent": "shopping",
+        "text": "baseball ball"
+      },
+      {
+        "intent": "shopping",
+        "text": "gloves"
+      },
+      {
+        "intent": "shopping",
+        "text": "helmets"
+      },
+      {
+        "intent": "shopping",
+        "text": "catchers gear"
+      },
+      {
+        "intent": "shopping",
+        "text": "bags"
+      },
+      {
+        "intent": "shopping",
+        "text": "tee ball"
+      },
+      {
+        "intent": "shopping",
+        "text": "training aids"
+      },
+      {
+        "intent": "shopping",
+        "text": "back stops"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair dryer"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair clip"
+      },
+      {
+        "intent": "personal care",
+        "text": "comb"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair iron"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair roller"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair clipper"
+      },
+      {
+        "intent": "personal care",
+        "text": "hairbrush"
+      },
+      {
+        "intent": "personal care",
+        "text": "hairpin"
+      },
+      {
+        "intent": "personal care",
+        "text": "headband"
+      },
+      {
+        "intent": "personal care",
+        "text": "kanzashi"
+      },
+      {
+        "intent": "personal care",
+        "text": "ribbon"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair tie"
+      },
+      {
+        "intent": "personal care",
+        "text": "scissors"
+      },
+      {
+        "intent": "personal care",
+        "text": "shower cap"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair coloring"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair conditioner"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair gel"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair glue"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair mousse"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair serum"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair spray"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair tonic"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair wax"
+      },
+      {
+        "intent": "personal care",
+        "text": "pomade"
+      },
+      {
+        "intent": "personal care",
+        "text": "hair salon"
+      },
+      {
+        "intent": "personal care",
+        "text": "hairdressing salon"
+      },
+      {
+        "intent": "personal care",
+        "text": "salon de beauté"
+      },
+      {
+        "intent": "personal care",
+        "text": "styling salon"
+      },
+      {
+        "intent": "personal care",
+        "text": "tonsorium"
+      },
+      {
+        "intent": "personal care",
+        "text": "expert"
+      },
+      {
+        "intent": "personal care",
+        "text": "physician"
+      },
+      {
+        "intent": "personal care",
+        "text": "professor"
+      },
+      {
+        "intent": "personal care",
+        "text": "scientist"
+      },
+      {
+        "intent": "personal care",
+        "text": "specialist"
+      },
+      {
+        "intent": "personal care",
+        "text": "kendo"
+      },
+      {
+        "intent": "personal care",
+        "text": "ball sports"
+      },
+      {
+        "intent": "personal care",
+        "text": "baseball"
+      },
+      {
+        "intent": "personal care",
+        "text": "basketball"
+      },
+      {
+        "intent": "personal care",
+        "text": "tennis"
+      },
+      {
+        "intent": "personal care",
+        "text": "badminton"
+      },
+      {
+        "intent": "personal care",
+        "text": "bowling"
+      },
+      {
+        "intent": "personal care",
+        "text": "cricket"
+      },
+      {
+        "intent": "personal care",
+        "text": "curling"
+      },
+      {
+        "intent": "personal care",
+        "text": "dodgeball"
+      },
+      {
+        "intent": "personal care",
+        "text": "football"
+      },
+      {
+        "intent": "personal care",
+        "text": "golf"
+      },
+      {
+        "intent": "personal care",
+        "text": "handball"
+      },
+      {
+        "intent": "personal care",
+        "text": "hockey"
+      },
+      {
+        "intent": "personal care",
+        "text": "horseball"
+      },
+      {
+        "intent": "personal care",
+        "text": "hurling"
+      },
+      {
+        "intent": "personal care",
+        "text": "ice hockey"
+      },
+      {
+        "intent": "personal care",
+        "text": "kickball"
+      },
+      {
+        "intent": "personal care",
+        "text": "lacrosse"
+      },
+      {
+        "intent": "personal care",
+        "text": "paddle"
+      },
+      {
+        "intent": "personal care",
+        "text": "polo"
+      },
+      {
+        "intent": "food & dining",
+        "text": "bistro"
+      },
+      {
+        "intent": "food & dining",
+        "text": "sandwich"
+      },
+      {
+        "intent": "food & dining",
+        "text": "cafeteria"
+      },
+      {
+        "intent": "food & dining",
+        "text": "chophouse"
+      },
+      {
+        "intent": "food & dining",
+        "text": "coffee bar"
+      },
+      {
+        "intent": "food & dining",
+        "text": "coffee shop"
+      },
+      {
+        "intent": "food & dining",
+        "text": "diner"
+      },
+      {
+        "intent": "food & dining",
+        "text": "eating house"
+      },
+      {
+        "intent": "food & dining",
+        "text": "hash house"
+      },
+      {
+        "intent": "food & dining",
+        "text": "joint"
+      },
+      {
+        "intent": "food & dining",
+        "text": "luncheonette"
+      },
+      {
+        "intent": "food & dining",
+        "text": "lunchroom"
+      },
+      {
+        "intent": "food & dining",
+        "text": "noshery"
+      },
+      {
+        "intent": "food & dining",
+        "text": "pit stop"
+      },
+      {
+        "intent": "food & dining",
+        "text": "snack bar"
+      },
+      {
+        "intent": "food & dining",
+        "text": "soup house"
+      },
+      {
+        "intent": "food & dining",
+        "text": "tearoom"
+      },
+      {
+        "intent": "food & dining",
+        "text": "burger joint"
+      },
+      {
+        "intent": "food & dining",
+        "text": "cake shop"
+      },
+      {
+        "intent": "food & dining",
+        "text": "grease joint"
+      },
+      {
+        "intent": "food & dining",
+        "text": "greasy spoon"
+      },
+      {
+        "intent": "food & dining",
+        "text": "consignment"
+      },
+      {
+        "intent": "food & dining",
+        "text": "distribution"
+      },
+      {
+        "intent": "food & dining",
+        "text": "shipment"
+      },
+      {
+        "intent": "food & dining",
+        "text": "transmission"
+      },
+      {
+        "intent": "food & dining",
+        "text": "carting"
+      },
+      {
+        "intent": "food & dining",
+        "text": "commitment"
+      },
+      {
+        "intent": "food & dining",
+        "text": "conveyance"
+      },
+      {
+        "intent": "food & dining",
+        "text": "dispatch"
+      },
+      {
+        "intent": "food & dining",
+        "text": "drop"
+      },
+      {
+        "intent": "food & dining",
+        "text": "mailing"
+      },
+      {
+        "intent": "food & dining",
+        "text": "ethnic restaurant"
+      },
+      {
+        "intent": "food & dining",
+        "text": "fine dining restaurant"
+      },
+      {
+        "intent": "food & dining",
+        "text": "trattoria"
+      },
+      {
+        "intent": "food & dining",
+        "text": "pizza hut"
+      },
+      {
+        "intent": "food & dining",
+        "text": "pizza"
+      },
+      {
+        "intent": "food & dining",
+        "text": "starbucks"
+      },
+      {
+        "intent": "food & dining",
+        "text": "bar"
+      },
+      {
+        "intent": "food & dining",
+        "text": "dive bar"
+      },
+      {
+        "intent": "food & dining",
+        "text": "cigar bar"
+      },
+      {
+        "intent": "food & dining",
+        "text": "lounge"
+      },
+      {
+        "intent": "food & dining",
+        "text": "sports bar"
+      },
+      {
+        "intent": "food & dining",
+        "text": "nightclub"
+      },
+      {
+        "intent": "food & dining",
+        "text": "college bar"
+      },
+      {
+        "intent": "food & dining",
+        "text": "irish pub"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "audio"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "box"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "station"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "video"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "tv"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "baby-sitter"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "tube"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "boob tube"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "small screen"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "television"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "desk phone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "conventional phone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "conventional telephone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "house phone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "cellular mobile"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "cellular phone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "cellular telephone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "digital phone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "handphone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "mobile"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "mobile telephone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "radiotelephone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "wireless phone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "iphone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "smartphone"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "electricity"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "power"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "current"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "energy"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "galvanism"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "static"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "electric power"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "electromagneticism"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "electron"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "light"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "hot stuff"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "electric energy"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "electrical power"
+      },
+      {
+        "intent": "bills and utilities",
+        "text": "water power"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "auto insurance"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "automobile insurance"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "motor insurance"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "motor vehicle insurance"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "vehicle insurance"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "off the car"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "insurance"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "insurance of land vehicles"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "insurance purchased for cars"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "insurance purchased for land vehicles"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "insurance for land vehicles"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "insurance for vehicles"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "insurance for cars"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "insurance for trucks"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "motorcycles"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "remittance"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "bus"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "train"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "car parts"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "automobile parts"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "automotive parts"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "spare parts"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "motor vehicle"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "auto"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "motor"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "ride"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "cab driver"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "taxi driver"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "fuel oil"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "gasoil"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "kindle"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "mazout"
+      },
+      {
+        "intent": "auto & transport",
+        "text": "essance"
+      },
+      {
+        "intent": "travel",
+        "text": "aviation"
+      },
+      {
+        "intent": "travel",
+        "text": "air transportation"
+      },
+      {
+        "intent": "travel",
+        "text": "air transport"
+      },
+      {
+        "intent": "travel",
+        "text": "airline"
+      },
+      {
+        "intent": "travel",
+        "text": "airlift"
+      },
+      {
+        "intent": "travel",
+        "text": "air traffic"
+      },
+      {
+        "intent": "travel",
+        "text": "aircraft"
+      },
+      {
+        "intent": "travel",
+        "text": "flights"
+      },
+      {
+        "intent": "travel",
+        "text": "air freight"
+      },
+      {
+        "intent": "travel",
+        "text": "airline industry"
+      },
+      {
+        "intent": "travel",
+        "text": "airfare"
+      },
+      {
+        "intent": "travel",
+        "text": "plane ride"
+      },
+      {
+        "intent": "travel",
+        "text": "air"
+      },
+      {
+        "intent": "travel",
+        "text": "air-transport"
+      },
+      {
+        "intent": "travel",
+        "text": "air operations"
+      },
+      {
+        "intent": "travel",
+        "text": "air service"
+      },
+      {
+        "intent": "travel",
+        "text": "aeronautics"
+      },
+      {
+        "intent": "travel",
+        "text": "flight"
+      },
+      {
+        "intent": "travel",
+        "text": "motel"
+      },
+      {
+        "intent": "travel",
+        "text": "room"
+      },
+      {
+        "intent": "travel",
+        "text": "hostel"
+      },
+      {
+        "intent": "travel",
+        "text": "house"
+      },
+      {
+        "intent": "travel",
+        "text": "lodging"
+      },
+      {
+        "intent": "travel",
+        "text": "breakfast"
+      },
+      {
+        "intent": "travel",
+        "text": "place"
+      },
+      {
+        "intent": "travel",
+        "text": "car park"
+      },
+      {
+        "intent": "travel",
+        "text": "at the hotel"
+      },
+      {
+        "intent": "travel",
+        "text": "carpark"
+      },
+      {
+        "intent": "travel",
+        "text": "parking facilities"
+      },
+      {
+        "intent": "travel",
+        "text": "reception desk"
+      },
+      {
+        "intent": "travel",
+        "text": "guesthouse"
+      },
+      {
+        "intent": "travel",
+        "text": "rooms"
+      },
+      {
+        "intent": "travel",
+        "text": "comfortableness"
+      },
+      {
+        "intent": "travel",
+        "text": "in a hotel"
+      },
+      {
+        "intent": "travel",
+        "text": "letting"
+      },
+      {
+        "intent": "travel",
+        "text": "self-drive"
+      },
+      {
+        "intent": "travel",
+        "text": "u-drive"
+      },
+      {
+        "intent": "travel",
+        "text": "hire car"
+      },
+      {
+        "intent": "travel",
+        "text": "car rental"
+      },
+      {
+        "intent": "travel",
+        "text": "lease"
+      },
+      {
+        "intent": "travel",
+        "text": "you-drive"
+      },
+      {
+        "intent": "travel",
+        "text": "rental"
+      },
+      {
+        "intent": "travel",
+        "text": "holiday"
+      },
+      {
+        "intent": "travel",
+        "text": "break"
+      },
+      {
+        "intent": "travel",
+        "text": "leave"
+      },
+      {
+        "intent": "travel",
+        "text": "rest"
+      },
+      {
+        "intent": "travel",
+        "text": "time off"
+      },
+      {
+        "intent": "travel",
+        "text": "recess"
+      },
+      {
+        "intent": "travel",
+        "text": "spring break"
+      },
+      {
+        "intent": "travel",
+        "text": "take a holiday"
+      },
+      {
+        "intent": "travel",
+        "text": "trip"
+      },
+      {
+        "intent": "travel",
+        "text": "stay"
+      },
+      {
+        "intent": "travel",
+        "text": "holidaying"
+      },
+      {
+        "intent": "travel",
+        "text": "leave period"
+      },
+      {
+        "intent": "travel",
+        "text": "vacations"
+      },
+      {
+        "intent": "travel",
+        "text": "go on vacation"
+      },
+      {
+        "intent": "travel",
+        "text": "sleep"
+      },
+      {
+        "intent": "travel",
+        "text": "travel"
+      },
+      {
+        "intent": "travel",
+        "text": "take time off"
+      },
+      {
+        "intent": "travel",
+        "text": "take vacations"
+      },
+      {
+        "intent": "travel",
+        "text": "go on holiday"
+      },
+      {
+        "intent": "travel",
+        "text": "weekend"
+      },
+      {
+        "intent": "travel",
+        "text": "have a holiday"
+      },
+      {
+        "intent": "travel",
+        "text": "repose"
+      },
+      {
+        "intent": "travel",
+        "text": "world trip"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "service charge"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "cost of service"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "servicing costs"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "service charges"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "fee for service"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "fees for services"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "service costs"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "capital charge"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "financing expenses"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "usage fee"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "user fee"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "cost of using"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "external fees"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "usage charges"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "committee"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "errand"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "brokerage"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "board"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "money-back policy"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "unit-linked insurance plan"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "pension plans"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "motor insurance"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "home insurance"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "health insurance"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "fire insurance"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "common stock"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "preferred stock"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "additional paid-in capital"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "treasury stock"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "accumulation"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "hoard"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "nest egg"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "economise"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "economize"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "settle"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "pay back"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "compensation"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "reimbursement"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "reparation"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "restitution"
+      },
+      {
+        "intent": "fees & charges",
+        "text": "restoration"
+      },
+      {
+        "intent": "home",
+        "text": "lease"
+      },
+      {
+        "intent": "home",
+        "text": "rental unit"
+      },
+      {
+        "intent": "home",
+        "text": "gash"
+      },
+      {
+        "intent": "home",
+        "text": "incision"
+      },
+      {
+        "intent": "home",
+        "text": "laceration"
+      },
+      {
+        "intent": "home",
+        "text": "rip"
+      },
+      {
+        "intent": "home",
+        "text": "slash"
+      },
+      {
+        "intent": "home",
+        "text": "slit"
+      },
+      {
+        "intent": "home",
+        "text": "tear"
+      },
+      {
+        "intent": "home",
+        "text": "contract"
+      },
+      {
+        "intent": "home",
+        "text": "debt"
+      },
+      {
+        "intent": "home",
+        "text": "deed"
+      },
+      {
+        "intent": "home",
+        "text": "pledge"
+      },
+      {
+        "intent": "home",
+        "text": "title"
+      },
+      {
+        "intent": "home",
+        "text": "commit"
+      },
+      {
+        "intent": "home",
+        "text": "engage"
+      },
+      {
+        "intent": "home",
+        "text": "troth"
+      },
+      {
+        "intent": "home",
+        "text": "mortgage"
+      },
+      {
+        "intent": "home",
+        "text": "advance"
+      },
+      {
+        "intent": "home",
+        "text": "hypothecation"
+      },
+      {
+        "intent": "home",
+        "text": "loan"
+      },
+      {
+        "intent": "home",
+        "text": "remortgage"
+      },
+      {
+        "intent": "home",
+        "text": "bank loan"
+      },
+      {
+        "intent": "home",
+        "text": "bridging loan"
+      },
+      {
+        "intent": "home",
+        "text": "homeowner's loan"
+      },
+      {
+        "intent": "home",
+        "text": "second mortgage"
+      },
+      {
+        "intent": "home",
+        "text": "home equity loan"
+      },
+      {
+        "intent": "home",
+        "text": "car loan"
+      },
+      {
+        "intent": "home",
+        "text": "home loan"
+      },
+      {
+        "intent": "home",
+        "text": "small business loan"
+      },
+      {
+        "intent": "business services",
+        "text": "billing"
+      },
+      {
+        "intent": "business services",
+        "text": "blurb"
+      },
+      {
+        "intent": "business services",
+        "text": "come-on"
+      },
+      {
+        "intent": "business services",
+        "text": "commercial"
+      },
+      {
+        "intent": "business services",
+        "text": "message"
+      },
+      {
+        "intent": "business services",
+        "text": "pitch"
+      },
+      {
+        "intent": "business services",
+        "text": "plugola"
+      },
+      {
+        "intent": "business services",
+        "text": "spot"
+      },
+      {
+        "intent": "business services",
+        "text": "word"
+      },
+      {
+        "intent": "business services",
+        "text": "advert"
+      },
+      {
+        "intent": "business services",
+        "text": "barking"
+      },
+      {
+        "intent": "business services",
+        "text": "calling"
+      },
+      {
+        "intent": "business services",
+        "text": "economic"
+      },
+      {
+        "intent": "business services",
+        "text": "fiscal"
+      },
+      {
+        "intent": "business services",
+        "text": "materials"
+      },
+      {
+        "intent": "business services",
+        "text": "stationary"
+      },
+      {
+        "intent": "business services",
+        "text": "office material"
+      },
+      {
+        "intent": "business services",
+        "text": "chancery"
+      },
+      {
+        "intent": "business services",
+        "text": "registry"
+      },
+      {
+        "intent": "business services",
+        "text": "printing house"
+      },
+      {
+        "intent": "business services",
+        "text": "printed"
+      },
+      {
+        "intent": "business services",
+        "text": "press"
+      },
+      {
+        "intent": "business services",
+        "text": "service delivery"
+      },
+      {
+        "intent": "business services",
+        "text": "delivery of services"
+      },
+      {
+        "intent": "business services",
+        "text": "provision of services"
+      },
+      {
+        "intent": "business services",
+        "text": "provide services"
+      },
+      {
+        "intent": "business services",
+        "text": "service provision"
+      },
+      {
+        "intent": "business services",
+        "text": "servicing"
+      },
+      {
+        "intent": "business services",
+        "text": "providing services"
+      },
+      {
+        "intent": "business services",
+        "text": "deliver services"
+      },
+      {
+        "intent": "business services",
+        "text": "service"
+      },
+      {
+        "intent": "business services",
+        "text": "care"
+      },
+      {
+        "intent": "business services",
+        "text": "outreach"
+      },
+      {
+        "intent": "business services",
+        "text": "ship"
+      },
+      {
+        "intent": "business services",
+        "text": "passenger"
+      },
+      {
+        "intent": "business services",
+        "text": "sailing"
+      },
+      {
+        "intent": "business services",
+        "text": "steam"
+      },
+      {
+        "intent": "business services",
+        "text": "legal offices"
+      },
+      {
+        "intent": "business services",
+        "text": "justice division"
+      },
+      {
+        "intent": "business services",
+        "text": "legal consultants"
+      },
+      {
+        "intent": "business services",
+        "text": "legal division"
+      },
+      {
+        "intent": "business services",
+        "text": "legal staff"
+      },
+      {
+        "intent": "business services",
+        "text": "counsel"
+      },
+      {
+        "intent": "business services",
+        "text": "jurisconsult"
+      },
+      {
+        "intent": "business services",
+        "text": "statutory"
+      },
+      {
+        "intent": "business services",
+        "text": "valid"
+      },
+      {
+        "intent": "personal services",
+        "text": "advisory"
+      },
+      {
+        "intent": "personal services",
+        "text": "consultative"
+      },
+      {
+        "intent": "personal services",
+        "text": "counseling"
+      },
+      {
+        "intent": "personal services",
+        "text": "hortative"
+      },
+      {
+        "intent": "personal services",
+        "text": "recommendatory"
+      },
+      {
+        "intent": "personal services",
+        "text": "admonishing"
+      },
+      {
+        "intent": "personal services",
+        "text": "admonitory"
+      },
+      {
+        "intent": "personal services",
+        "text": "cautionary"
+      },
+      {
+        "intent": "personal services",
+        "text": "cautioning"
+      },
+      {
+        "intent": "personal services",
+        "text": "exemplary"
+      },
+      {
+        "intent": "personal services",
+        "text": "care"
+      },
+      {
+        "intent": "personal services",
+        "text": "conservation"
+      },
+      {
+        "intent": "personal services",
+        "text": "preservation"
+      },
+      {
+        "intent": "personal services",
+        "text": "supply"
+      },
+      {
+        "intent": "personal services",
+        "text": "upkeep"
+      },
+      {
+        "intent": "personal services",
+        "text": "adjustment"
+      },
+      {
+        "intent": "personal services",
+        "text": "improvement"
+      },
+      {
+        "intent": "personal services",
+        "text": "overhaul"
+      },
+      {
+        "intent": "personal services",
+        "text": "reconstruction"
+      },
+      {
+        "intent": "personal services",
+        "text": "rehabilitation"
+      },
+      {
+        "intent": "personal services",
+        "text": "replacement"
+      },
+      {
+        "intent": "personal services",
+        "text": "internal revenue service"
+      },
+      {
+        "intent": "personal services",
+        "text": "taxation services"
+      },
+      {
+        "intent": "personal services",
+        "text": "tax services"
+      },
+      {
+        "intent": "personal services",
+        "text": "tax administration"
+      },
+      {
+        "intent": "personal services",
+        "text": "tax authority"
+      },
+      {
+        "intent": "personal services",
+        "text": "tax agency"
+      },
+      {
+        "intent": "personal services",
+        "text": "fiscal authorities"
+      },
+      {
+        "intent": "tpe",
+        "text": "atm"
+      },
+      {
+        "intent": "tpe",
+        "text": "countertop card machines"
+      },
+      {
+        "intent": "tpe",
+        "text": "mortable card machines"
+      },
+      {
+        "intent": "tpe",
+        "text": "mobile card machines"
+      },
+      {
+        "intent": "tpe",
+        "text": "smartphone or tablet card readers"
+      },
+      {
+        "intent": "tpe",
+        "text": "virtual terminals for card payments"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "uncategorized",
+        "synonyms": [
+          "abm",
+          "atm",
+          "card",
+          "cash card",
+          "cash dispenser",
+          "cash machine",
+          "cashpoint",
+          "bread",
+          "bucks",
+          "cabbage",
+          "change",
+          "chips",
+          "coin",
+          "money",
+          "moola",
+          "needful",
+          "pelf",
+          "scratch",
+          "shekels",
+          "dab",
+          "atmm",
+          "etm",
+          "cashh",
+          "cach",
+          "cartt",
+          "check",
+          "chequebook",
+          "checkbook",
+          "cheque book",
+          "check book",
+          "cheque-book",
+          "passbook",
+          "checkbooks",
+          "check card",
+          "cheques",
+          "checks",
+          "cheque",
+          "legal pad",
+          "bank book",
+          "cheque books",
+          "bank balance",
+          "ration card",
+          "chequebooks",
+          "counterfoil",
+          "ledger",
+          "blotter",
+          "checke",
+          "chech",
+          "chek",
+          "ancategorized",
+          "noncategorized",
+          "noncategoriser",
+          "noncategorisée",
+          "non-categorisée",
+          "non-categoriser"
+        ]
+      },
+      {
+        "value": "education",
+        "synonyms": [
+          "kraya",
+          "etude",
+          "prof",
+          "ostadh",
+          "licee"
+        ]
+      },
+      {
+        "value": "shopping",
+        "synonyms": [
+          "shoping",
+          "e-commerce",
+          "ecommerce",
+          "shoppe",
+          "shopp",
+          "chopp",
+          "choppe",
+          "boutic",
+          "boutiqu",
+          "botique",
+          "botic",
+          "pantalan",
+          "pontalon",
+          "poontalon",
+          "chemise",
+          "chemice",
+          "chossure",
+          "chossures",
+          "chosure",
+          "chosette",
+          "chosettes"
+        ]
+      },
+      {
+        "value": "food & dining",
+        "synonyms": [
+          "food",
+          "fod",
+          "drink",
+          "bear",
+          "pissa",
+          "sondwich",
+          "sendwich",
+          "café",
+          "caféé",
+          "cafer",
+          "cheeese",
+          "sheese",
+          "shese",
+          "piza",
+          "lham",
+          "hout"
+        ]
+      },
+      {
+        "value": "bills and utilities",
+        "synonyms": [
+          "dhaw",
+          "thaw",
+          "mee",
+          "maaa",
+          "talifoun",
+          "teliphoun",
+          "telifoun"
+        ]
+      },
+      {
+        "value": "auto & transport",
+        "synonyms": [
+          "mazzout",
+          "esance",
+          "gasoil",
+          "gaze",
+          "taxii",
+          "karhba",
+          "kar"
+        ]
+      },
+      {
+        "value": "travel",
+        "synonyms": [
+          "rehla",
+          "rihla",
+          "doura"
+        ]
+      }
+    ]
+  }
+}

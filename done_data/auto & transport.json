@@ -1,0 +1,661 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "auto insurance"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "automobile insurance"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "motor insurance"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "motor vehicle insurance"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "vehicle insurance"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "off the car"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance of land vehicles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance purchased for cars"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance purchased for trucks"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance purchased for motorcycles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance purchased for road vehicles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance purchased for vehicles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance purchased for land vehicles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance for land vehicles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance for vehicles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance for cars"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance for trucks"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance for motorcycles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance for road vehicles"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance purchased by vehicle owners"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance for loss of a car"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "insurance for damage to cars"
+      },
+      {
+        "intent": "auto & transport-auto insurance",
+        "text": "automotive insurance"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "autopay"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "automatic payment"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "payment"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "reimbursement"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "remittance"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "reparation"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "repayment"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "compensation"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "disbursement"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "remitment"
+      },
+      {
+        "intent": "auto & transport-auto payment",
+        "text": "remunerations"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "park"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "car park"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "parking"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "garage"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "deploying"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "emplacing"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "fixing"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "locating"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "planting"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "positioning"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "setting"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "situating"
+      },
+      {
+        "intent": "auto & transport-parking",
+        "text": "stationing"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "lrt"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "busline"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "light rail"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "mass transit"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "metro"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "rail rapid transit"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "railway"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "rapid transit"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "subway"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "urban transportation service"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "bus"
+      },
+      {
+        "intent": "auto & transport-public transport",
+        "text": "train"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "car parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "automotive component"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "spares"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "auto body"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "automobile parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "automotive parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "spare parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "motor vehicle parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "auto part"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "automatic parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "automotive components"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "motor vehicle spare parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "autoparts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "auto-parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "auto supply"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "spare part"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "components"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "replacement parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "auto parts store"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "car part"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "elements"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "titanium auto part as set"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "supplies"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "self dispatch"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "component parts"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "sections"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "split"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "aspects"
+      },
+      {
+        "intent": "auto & transport-service & auto parts",
+        "text": "automobile spare parts"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "chauffeur"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "hack"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "taxicab"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "ride"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "cab fare"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "cabbie"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "cab"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "uber"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "cabdriver"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "taxis"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "minicab"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "chit"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "car service"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "by cab"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "cabby"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "taxi cab"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "driver"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "cab ride"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "by taxi"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "cab driver"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "taxi driver"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "taxi out"
+      },
+      {
+        "intent": "auto & transport-taxi",
+        "text": "in a taxi"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "petrol"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "gasoline"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "incite"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "feed"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "power"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "gas"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "kerosene"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "stimulate"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "diesel"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "inflame"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "fire"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "petroleum"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "firewood"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "fuelwood"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "nourish"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "kindling"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "firing"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "combustible"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "supply"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "juice"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "fuel oil"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "nourishment"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "encourage"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "food"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "gasoil"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "provoke"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "excite"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "feeding"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "wood"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "refuel"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "charge"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "stir up"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "refueling"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "oil"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "refuelling"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "stoke up"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "sustain"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "fuelling"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "nurture"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "stoking"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "ammunition"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "propellant"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "fill up"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "exacerbate"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "benzine"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "fire wood"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "energetics"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "combustion"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "tank"
+      },
+      {
+        "intent": "auto & transport-gas & fuel",
+        "text": "kindle"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

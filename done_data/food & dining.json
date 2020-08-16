@@ -1,0 +1,389 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "bistro"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "cafeteria"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "chophouse"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "coffee bar"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "coffee shop"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "diner"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "eating house"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "hash house"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "joint"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "luncheonette"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "lunchroom"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "noshery"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "pit stop"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "snack bar"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "soup house"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "tearoom"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "burger joint"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "cake shop"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "grease joint"
+      },
+      {
+        "intent": "food & dining-coffee shops",
+        "text": "greasy spoon"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "consignment"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "distribution"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "shipment"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "transmission"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "carting"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "commitment"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "conveyance"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "dispatch"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "drop"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "mailing"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "portage"
+      },
+      {
+        "intent": "food & dining-delivery",
+        "text": "post"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "buvette"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "cantina"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "concession"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "concession stand"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "drive-in"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "fast-food restaurant"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "hamburger stand"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "hot-dog stand"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "lunch counter"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "burger king whopper sandwich"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "five guys cheeseburger"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "kfc original recipe chicken"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "white castle sliders"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "sonic cherry limeade"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "arby's roast beef sandwich"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "wendy's frosty"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "mcdonald's happy meal"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "starbucks pumpkin spice latte"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "taco bell burrito supreme"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "tacos"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "chick-fil-a chicken sandwich"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "dunkin' donuts coffee"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "krispy kreme original glazed doughnuts"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "taco bell's nacho fries"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "culver's butterburger"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "whataburger taquito with cheese"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "domino's pepperoni pizza"
+      },
+      {
+        "intent": "food & dining-fast food",
+        "text": "chick-fil-a iced tea"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "bistro"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "ethnic restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "fine dining restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "trattoria"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "teppanyaki-ya"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "osteria"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "drive-in restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "drive-thru restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "pizzeria"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "taverna"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "fast casual restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "pop-up restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "ramen-ya"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "teahouse"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "fast food"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "buffet-style restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "luncheonette"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "steakhouse"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "kosher restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "dark restaurant"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "gastropub"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "brasserie"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "chiringuito"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "churrascaria"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "mcdonald"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "pizza hut"
+      },
+      {
+        "intent": "food & dining-restaurants",
+        "text": "starbucks"
+      },
+      {
+        "intent": "food & dining-bars",
+        "text": "bar"
+      },
+      {
+        "intent": "food & dining-bars",
+        "text": "dive bar"
+      },
+      {
+        "intent": "food & dining-bars",
+        "text": "cigar bar"
+      },
+      {
+        "intent": "food & dining-bars",
+        "text": "lounge"
+      },
+      {
+        "intent": "food & dining-bars",
+        "text": "sports bar"
+      },
+      {
+        "intent": "food & dining-bars",
+        "text": "nightclub"
+      },
+      {
+        "intent": "food & dining-bars",
+        "text": "college bar"
+      },
+      {
+        "intent": "food & dining-bars",
+        "text": "irish pub"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
