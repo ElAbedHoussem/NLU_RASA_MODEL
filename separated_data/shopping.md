@@ -1,0 +1,611 @@
+
+## intent:shopping-pets
+- dogs
+- cats
+- muntjac deer
+- raccoons
+- ring-tail possum
+- short-tailed possum.
+- parakeets
+- cockatiels
+- lovebirds
+- conures
+- lorikeets
+- rabbits
+- guinea pigs
+- mice
+- hamsters
+- gerbils
+- rats
+- hedgehogs
+- ferrets
+- chinchillas
+- squirrels
+- sugar gliders
+- horses
+- burros
+- goats
+- llamas
+- pot-bellied pigs
+- aviary birds
+- ducks
+- geese
+
+## intent:shopping-groceries
+- bodega
+- greengrocery
+- minimarket
+- supermarket
+- delicatessen
+- market
+- store
+- beverages
+- coffee
+- tea
+- juice
+- soda
+- bread
+- bakery
+- sandwich loaves
+- dinner rolls
+- tortillas
+- bagels
+- canned
+- jarred goods
+- vegetables
+- spaghetti sauce
+- ketchup
+- dairy
+- cheeses
+- eggs
+- milk
+- yogurt
+- butter
+- dry
+- baking goods
+- cereals
+- flour
+- sugar
+- pasta
+- mixes
+- frozen foods
+- waffles
+- vegetables
+- individual meals
+- ice cream
+- meat
+- lunch meat
+- poultry
+- beef
+- pork
+- produce
+- fruits
+- cleaners
+- laundry detergent
+- dishwashing liquid
+- paper towels
+- toilet paper
+- aluminum foil
+- sandwich bags
+- personal care
+- shampoo
+- soap
+- hand soap
+- shaving cream
+- baby items
+- pet items
+- batteries
+- greeting cards
+
+## intent:shopping-general
+- electronic
+- foods
+- clothes
+
+## intent:shopping-clothing
+- shoes
+- skirt
+- bikini
+- dress pants
+- jumper
+- sneakers
+- hoodie
+- vest
+- high heels
+- flip flops
+- handbag
+- tank top
+- singlet
+- boots
+- shorts
+- polo shirt
+- umbrella
+- dress
+- hawaiian shirt
+- mittens
+- socks
+- swimsuit
+- trench coat
+- winter coat
+- straw hat
+- cap
+- scarf
+- sunglasses
+- apron
+- necklace
+- watch
+- socks
+- tie
+- bow tie
+- purse
+- ring
+- gloves
+- scarf
+- umbrella
+- boots
+- mittens
+- stockings
+- earmuffs
+- hair band
+- safety pin
+- pocket watch
+- beanie
+- cap
+- beret
+- straw hat
+- derby hat
+- helmet
+- top hat
+- mortar board
+- overalls
+- mittens
+- beanie
+- baby apron
+- socks
+- diaper
+- singlet
+- shoes
+- safety pin
+- sweater
+- shirt
+- jeans
+- gloves
+- cap
+- suit
+- hawaiian shirt
+- singlet
+- business shoes
+- flip flops
+- shorts
+- cardigan
+- jacket
+- sport shoes
+- bow tie
+- sleeveless shirt
+- vest
+- long-sleeve top
+- polo shirt
+- jumper
+- trench coat
+- bathrobe
+- cargo pants
+- swimsuit
+- blazer
+- t-shirt
+- belt
+- underpants
+- waistcoat
+- socks
+- tie
+- pullover
+- umbrella
+- scarf
+- sunglasses
+- glasses
+- boots
+- wallet
+- handbag
+- watch
+- wedding dress
+- sweater
+- t-shirt
+- sheath dress
+- dress
+- gym clothes
+- bra
+- tank top
+- shorts
+- hoodie
+- jeans
+- long coat
+- uniform
+- coat
+- dress pants
+- swimsuit
+- long-sleeve top
+- skirt
+- thong
+- hat
+- necklace
+- ring
+- earrings
+- perfume
+- mittens
+- sunglasses
+- handbag
+- bracelet
+- purse
+- watch
+- umbrella
+- scarf
+- slip
+- high-heeled shoes
+- flip-flops
+- boots
+- stockings
+- jacket
+- beanie
+- sweater
+- gloves
+- fleece jacket
+- jeans
+- mittens
+- scarf
+- socks
+- trench coat
+- jacket
+- long coat
+- long-sleeve top
+- boots
+- earmuffs
+- cardigan
+- t-shirt
+- dress
+- singlet
+- cap
+- one-piece bathing suit
+- hawaiian shirt
+- sunglasses
+- swim trunks
+- straw hat
+- polo shirt
+- overalls
+- bikini
+- shorts
+- tank top
+- flip flops
+- toner
+- mirror
+- brightener
+- makeup kit
+- nail polish
+- lip gloss
+- lip liner
+- foundation
+- eyeliner
+- eye shadow
+- lipstick
+- mascara
+- cleanser
+- tanning lotion
+- bronzer
+- moisturizer
+- face cream
+- concealer
+- primer
+- blush
+- brush
+- perfume
+- hand lotion
+- razor
+- tissues
+- sunglasses
+- hand mirror
+- wet wipe
+- toothbrush
+- sunscreen
+- deodorant
+
+## synonym:entertainment-clothing
+- clothing
+- clothes
+- djeen
+- shoos
+- shoose
+
+## intent:shopping-home
+- armchair
+- armoire
+- bar stool
+- bassinet
+- beach chair
+- bean bag chair
+- bed
+- bed table
+- bench
+- bentwood rocker
+- bergere
+- bookcase
+- bookshelf
+- breakfront
+- buffet
+- bunk bed
+- bureau
+- cabinet
+- canopy bed
+- captain's chair
+- card table
+- carpet
+- cart
+- chair
+- chaise lounge
+- chandelier
+- chest
+- chest of drawers
+- china cabinet
+- clothes valet
+- club chair
+- coffee table
+- console
+- cot
+- couch
+- cradle
+- credenza
+- crib
+- cubbies
+- cupboard
+- curio
+- curtains
+- cushion
+- deck chair
+- desk
+- desk chair
+- dining room table
+- director's chair
+- display cabinet
+- divan
+- drapery
+- drapes
+- dresser
+- game table
+- garden bench
+- gateleg table
+- glider rocker
+- grandfather clock
+- pantry
+- park bench
+- patio chair
+- patio table
+- pew
+- piano bench
+- picnic table
+- pillow
+- porch swing
+- table
+- tansu
+- tea cart
+- throne
+- throw rug
+- trundle bed
+- tuffet
+
+## intent:shopping-books
+- action and adventure
+- architecture
+- alternate history
+- autobiography
+- anthology
+- biography
+- chick lit
+- business
+- economics
+- children
+- crafts
+- hobbies
+- classic
+- cookbook
+- comic book
+- diary
+- coming-of-age
+- dictionary
+- crime
+- encyclopedia
+- drama
+- guide
+- fairytale
+- health
+- fantasy
+- history
+- graphic novel
+- home and garden
+- historical fiction
+- humor
+- horror
+- journal
+- mystery
+- math
+- paranormal romance
+- memoir
+- picture book
+- philosophy
+- poetry
+- prayer
+- political thriller
+- religion
+- romance
+- textbook
+- satire
+- true crime
+- science fiction
+- review
+- short story
+- science
+- suspense
+- self help
+- thriller
+- sports and leisure
+- western
+- travel
+- young adult
+- true crime
+
+## intent:shopping-electronics & software
+- audio system
+- home audio
+- avionics
+- car audio
+- car navigation
+- copy machine
+- computer
+- personal computer
+- digital camera
+- display device
+- digital video camera
+- digital video player
+- digital video recorder
+- fax
+- global positioning system
+- hard disk drive
+- multifunction printer
+- mechatronics
+- mobile phone
+- network device
+- portable media player
+- printer
+- semiconductor
+- video cassette recorder
+- video game
+- video game developer
+- video game publisher
+- indie game developer
+- transportation electronics system
+- television
+- wireless devices
+- microsoft office 
+- acrobat reader
+- adobe
+
+## intent:shopping-hobbies
+- competitive
+- outdoor
+- indoor
+- creative
+- racing
+- martial arts
+- self defense
+- air soft
+- american football
+- archery
+- australian football
+- badminton
+- baton twirling
+- baseball
+- basketball
+- beach volleyball
+- bicycling
+- billiards
+- bodybuilding
+- bowling
+- boxing
+- cheer leading
+- chess tournaments
+- cooking competitions
+- color guard
+- cricket
+- curling
+- antiques
+- artwork
+- book
+- buttons
+- card
+- coin
+- comic books
+- deltiology (postcard collecting)
+- diecast cars
+- elements
+- guns
+- hats
+- insect
+- metal
+- movie memorabilia
+- music albums and records
+- sea glass
+- seashells
+- cycling
+- fencing
+- roller derby
+- roller skating
+- rugby
+- sailing
+- skateboarding
+- skeet shooting
+- skiing
+- snowboarding
+- soccer
+- association football
+- speed skating
+- surfing
+- swimming
+- field hockey
+- figure skating
+- fish tournaments
+- flag football
+- floor-ball
+- golfing
+- handball
+- dancing
+- darts
+- debate
+- disc golf
+- dodge-ball
+- dog sports
+- falconry
+- collecting
+- animal
+- music
+- writing
+- unusual
+- cooking
+
+## intent:shopping-sporting goods
+- rope
+- cord
+- webbing
+- carabiners
+- quick-draws
+- harnesses
+- belay devices
+- rappel devices
+- figure eight
+- rescue eight
+- rappel rack
+- ascenders
+- sling
+- daisy chain
+- protection devices
+- nuts
+- hexes
+- spring-loaded clamming devices
+- tricams
+- hang-boards
+- grip savers
+- campus boards
+- bachar ladder
+- specialized clothing
+- helmet
+- climbing shoes
+- belay gloves
+- miscellaneous equipment
+- tape
+- haul bag
+- gear sling
+- chalk
+- baseball bat
+- baseball ball
+- gloves
+- helmets
+- catchers gear
+- bags
+- tee ball
+- training aids
+- back stops

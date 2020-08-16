@@ -1,0 +1,404 @@
+
+## intent:entertainment-arts
+- craft
+- profession
+- adroitness
+- aptitude
+- artistry
+- craftsmanship
+- dexterity
+- expertise
+- facility
+- imagination
+- ingenuity
+- inventiveness
+- knack
+- know-how
+- knowledge
+- mastery
+- animation
+
+## synonym:entertainment-arts
+- artt
+- artiste
+- ar
+- craft
+
+## intent:entertainment-music
+- alternative
+- art punk
+- alternative rock
+- britpunk
+- college rock
+- anime
+- blues
+- avant-garde
+- ballet
+- string quartet
+- chant
+- choral
+- country
+- melody
+- opera
+- piece
+- rap
+- rock
+- singing
+- soul
+- tune
+- acoustic
+- air
+- bebop
+- bop
+- chamber
+- classical
+- folk
+- fusion
+- harmony
+- hymn
+- jazz
+- measure
+- modern
+- plainsong
+- ragtime
+- refrain
+- song
+- strain
+- swing
+- a cappella
+- chillstep 
+- deep house 
+- dubstep
+- electro house 
+- hard dance
+- horrorcore
+- house 
+- techno
+- acid techno
+- detroit techno
+- free tekno
+- easy listening
+- background
+- bop
+- elevator
+- furniture
+- lounge
+
+## synonym::entertainment-music
+- misic
+- rok
+- hous
+- houce
+- loung
+- jaz
+
+## intent:entertainment-movies & dvds
+- cinema
+- feature
+- film
+- flick
+- motion picture
+- picture
+- show
+- videotape
+- celluloid
+- screenplay
+- talkie
+- cine
+- cinematics
+- cinematograph
+- moving picture
+- photoplay
+- silent
+- silver screen
+- talking picture
+- optical disk 
+- videodisc 
+- videodisk 
+- optical disc 
+- laser disc
+
+## synonym::entertainment-movies & dvds
+- filmmm
+- movi
+- vedeo
+- dvd
+- cd
+- films 
+
+
+## intent:entertainment-newspaper & magazines
+- community
+- press
+- tabloid
+- metropolitan
+- rag
+- scandal sheet
+- book
+- bulletin
+- diurnal
+- gazette
+- journal
+- mag
+- magazine
+- organ
+- paper
+- periodical
+- rag
+- review
+- serial
+- zine
+- booklet
+- brochure
+- manual
+- newsletter
+- newspaper
+- pamphlet
+- periodical
+- broadside
+- circular
+- digest
+- glossy
+- organ
+- pulp
+- quarterly
+- review
+- semiweekly
+- sheet
+- slick
+- throwaway
+
+## synonym::entertainment-newspaper & magazines
+- magazin
+- bok
+- boock
+
+
+## intent:entertainment-social club
+- private club
+- recreational club
+- social activities club
+- working men's clubs
+- association
+- fraternity
+- society
+- sorority
+- club
+- group
+- fellowship
+- alliance
+- body
+- band
+- partnership
+- league
+- community
+- clique
+- circle
+- federation
+- team
+- union
+- organizationus
+- ring
+- guild
+
+## synonym::entertainment--social club
+- cluub
+- teem
+- federetion
+
+## intent:entertainment-sport
+- sport
+- athletics
+- game
+- exercise
+- games
+- play
+- physical activity
+- adventure sports
+- athletics
+- fun
+- game
+- pastime
+- action
+- amusement
+- ball
+- disport
+- diversion
+- exercise
+- frolic
+- gaiety
+- games
+- picnic
+- play
+- pleasure
+- recreation
+- fun and games
+- physical activity
+- snorkeling
+- olympic swimming
+- bodyboarding
+- diving
+- freediving
+- paddleboarding
+- rowing
+- scuba diving
+- synchronized swimming
+- strength and agility sports
+- aerobics
+- aikido
+- archery
+- artistic gymnastics
+- baton twirling
+- bodybuilding
+- boxing
+- cross-country equestrianism
+- cross-country running
+- cycling
+- discus throw
+- equestrianism
+- fencing
+- figure skating
+- horse racing
+- judo
+- karate
+- kendo
+- kickboxing
+- kung fu
+- long jump
+- marathon
+- mixed martial arts
+- muay thai
+- pole vault
+- powerlifting
+- racewalking
+- rhythmic gymnastics
+- sprint
+- sumo
+- sword-fighting
+- trail running
+- trampolining
+- tumbling
+- ultimate
+- walking
+- weightlifting
+- wrestling
+- ball sports
+- baseball
+- basketball
+- tennis
+- badminton
+- bowling
+- cricket
+- curling
+- dodgeball
+- football
+- golf
+- handball
+- hockey
+- horseball
+- hurling
+- ice hockey
+- kickball
+- lacrosse
+- paddle
+- polo
+- racquetball
+- rinkball
+- rounders
+- rugby
+- soccer
+- softball
+- squash
+- table tennis
+- unicycling basketball
+- unicycling handball
+- unicycling hockey
+- volleyball
+- water polo
+- base jumping
+- abseiling
+- bouldering
+- gliding
+- kiteboarding
+- kitesurfing
+- parachuting
+- paragliding
+- parasailing
+- skateboarding
+- skydiving
+- skysurfing
+- snowboarding
+- wakeoarding
+- windsurfing
+- climbing
+- cross-country cycling
+- hiking
+- mountaineering
+- motorised sports
+- deportes de motor
+- drifting
+- formula racing
+- kart racing
+- rallycross
+- mind sports
+- airsoft
+- aquathlon
+- ballooning
+- barrel racing
+- biathlon
+- capoeira
+- cheerleading
+- crossfit
+- dancing
+- darts
+- decathlon
+- foosball
+- gymkhana
+- heptathlon
+- jogging
+- laser tag
+- paintball
+- parkour
+- petanque
+- pool
+- triathlon
+- bridge
+- chess
+- mahjong
+- mountain sports
+- extreme sports
+
+## intent:entertainment-games
+- game
+- games
+- bout
+- competition
+- contest
+- event
+- match
+- matchup
+- meet
+- sweepstakes
+- tournament
+- tourney
+- battles
+- conflicts
+- skirmishes
+- struggles
+- tussles
+- championships
+- finals
+- nightcaps
+- derbies
+- biathlons
+- decathlons
+- heptathlons
+- pentathlons
+- triathlons
+- marathons
+- races
+- volleys
+
+## synonym:entertainment-games
+- foot
+- geme

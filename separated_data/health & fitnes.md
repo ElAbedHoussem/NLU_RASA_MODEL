@@ -1,0 +1,184 @@
+## intent:health & fitness-dentist
+- medical man
+- exodontist 
+- endodontist 
+- periodontist 
+- medical 
+- practitioner 
+- dental 
+- practitioner 
+- orthodontist 
+- prosthodontist 
+- tooth doctor 
+- pedodontist 
+- dental surgeon 
+
+## intent:health & fitness-doctor
+- expert
+- physician
+- professor
+- scientist
+- specialist
+- surgeon
+- md
+- bones
+- doc
+- healer
+- intern
+- medic
+- medico
+
+## intent:health & fitness-eye care
+- eye service
+- ophthalmology
+- opthalmology
+- ophthalmologist
+- ophthalmologic apparatus
+- ophthalmologic
+- opthalmic
+- ophthalmological
+- ophthal
+
+## intent:health & fitness-pharmacy
+- apothecary
+- dispensary
+- drugstore
+- pharmacopoeia
+- pharmacy
+- pharmaceutics 
+- medical specialty  
+
+## intent:health & fitness-gym
+- gymnasium
+- spa
+- health spa
+- health club
+- aerobics studio
+- exercise room
+- fitness centre
+- leisure centre
+- sports centre
+- sports club
+- sports hall
+- ring
+- stadium
+- coliseum
+- amphitheatreuk
+- amphitheaterus
+- ground
+- field
+- theatreuk
+- dome
+- showground
+- rink
+- fitness center
+- health farm
+- theaterus
+- circus
+- hippodrome
+- pit
+- course
+- heafield
+- gymnasium
+- park
+- ring
+- rink
+- square
+- stadium
+- stage
+
+## intent:health & fitness-sports
+- athletics
+- game
+- exercise
+- games
+- play
+- physical activity
+- adventure sports
+- athletics
+- fun
+- game
+- pastime
+- action
+- amusement
+- ball
+- disport
+- diversion
+- exercise
+- frolic
+- gaiety
+- games
+- picnic
+- play
+- pleasure
+- recreation
+- fun and games
+- physical activity
+- snorkeling
+- olympic swimming
+- bodyboarding
+- diving
+- freediving
+- paddleboarding
+- rowing
+- scuba diving
+- synchronized swimming
+- strength and agility sports
+- aerobics
+- aikido
+- archery
+- artistic gymnastics
+- baton twirling
+- bodybuilding
+- boxing
+- cross-country equestrianism
+- cross-country running
+- cycling
+- discus throw
+- equestrianism
+- fencing
+- figure skating
+- horse racing
+- judo
+- karate
+- kendo
+- kickboxing
+- kung fu
+- long jump
+- marathon
+- mixed martial arts
+- muay thai
+- pole vault
+- powerlifting
+- racewalking
+- rhythmic gymnastics
+- sprint
+- sumo
+- sword-fighting
+- trail running
+- trampolining
+- tumbling
+- ultimate
+- walking
+- weightlifting
+- wrestling
+- ball sports
+- baseball
+- basketball
+- tennis
+- badminton
+- bowling
+- cricket
+- curling
+- dodgeball
+- football
+- golf
+- handball
+- hockey
+- horseball
+- hurling
+- ice hockey
+- kickball
+- lacrosse
+- paddle
+- polo

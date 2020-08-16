@@ -1,0 +1,2168 @@
+## synonym:uncategorized
+- abm
+- atm
+- card
+- cash card
+- cash dispenser 
+- cash machine
+- cashpoint
+- bread
+- bucks
+- cabbage
+- change
+- chips
+- coin
+- money
+- moola
+- needful
+- pelf
+- scratch
+- shekels
+- dab
+- atmm
+- etm
+- cashh
+- cach
+- cartt
+- check
+- chequebook
+- checkbook
+- cheque book
+- check book
+- cheque-book
+- passbook
+- checkbooks
+- check card
+- cheques
+- checks
+- cheque
+- legal pad
+- bank book
+- cheque books
+- bank balance
+- ration card
+- chequebooks
+- counterfoil
+- ledger
+- blotter
+- checke
+- chech
+- chek 
+
+## intent:entertainment
+- craft
+- profession
+- adroitness
+- aptitude
+- artistry
+- craftsmanship
+- dexterity
+- expertise
+- facility
+- imagination
+- ingenuity
+- inventiveness
+- knack
+- know-how
+- knowledge
+- mastery
+- animation
+- artt
+- artiste
+- ar
+- craft
+- alternative
+- art punk
+- alternative rock
+- britpunk
+- college rock
+- anime
+- blues
+- avant-garde
+- ballet
+- string quartet
+- chant
+- choral
+- country
+- melody
+- opera
+- piece
+- rap
+- rock
+- singing
+- soul
+- tune
+- acoustic
+- air
+- bebop
+- bop
+- chamber
+- classical
+- folk
+- fusion
+- harmony
+- hymn
+- jazz
+- measure
+- modern
+- plainsong
+- ragtime
+- refrain
+- song
+- strain
+- swing
+- a cappella
+- chillstep 
+- deep house 
+- dubstep
+- electro house 
+- hard dance
+- horrorcore
+- house 
+- techno
+- acid techno
+- detroit techno
+- free tekno
+- easy listening
+- background
+- bop
+- elevator
+- furniture
+- lounge
+- misic
+- rok
+- hous
+- houce
+- loung
+- jaz
+- cinema
+- feature
+- film
+- flick
+- motion picture
+- picture
+- show
+- videotape
+- celluloid
+- screenplay
+- talkie
+- cine
+- cinematics
+- cinematograph
+- moving picture
+- photoplay
+- silent
+- silver screen
+- talking picture
+- optical disk 
+- videodisc 
+- videodisk 
+- optical disc 
+- laser disc
+- filmmm
+- movi
+- vedeo
+- dvd
+- cd
+- films 
+- community
+- press
+- tabloid
+- metropolitan
+- rag
+- scandal sheet
+- book
+- bulletin
+- diurnal
+- gazette
+- journal
+- mag
+- magazine
+- organ
+- paper
+- periodical
+- rag
+- review
+- serial
+- zine
+- booklet
+- brochure
+- manual
+- newsletter
+- newspaper
+- pamphlet
+- periodical
+- broadside
+- circular
+- digest
+- glossy
+- organ
+- pulp
+- quarterly
+- review
+- semiweekly
+- sheet
+- slick
+- throwaway
+- magazin
+- bok
+- boock
+- private club
+- recreational club
+- social activities club
+- working men's clubs
+- association
+- fraternity
+- society
+- sorority
+- club
+- group
+- fellowship
+- alliance
+- body
+- band
+- partnership
+- league
+- community
+- clique
+- circle
+- federation
+- team
+- union
+- organizationus
+- ring
+- guild
+- cluub
+- teem
+- federetion
+- sport
+- athletics
+- game
+- exercise
+- games
+- play
+- physical activity
+- adventure sports
+- athletics
+- fun
+- game
+- pastime
+- action
+- amusement
+- ball
+- disport
+- diversion
+- exercise
+- frolic
+- gaiety
+- games
+- picnic
+- play
+- pleasure
+- recreation
+- fun and games
+- physical activity
+- snorkeling
+- olympic swimming
+- bodyboarding
+- diving
+- freediving
+- paddleboarding
+- rowing
+- scuba diving
+- synchronized swimming
+- strength and agility sports
+- aerobics
+- aikido
+- archery
+- artistic gymnastics
+- baton twirling
+- bodybuilding
+- boxing
+- cross-country equestrianism
+- cross-country running
+- cycling
+- discus throw
+- equestrianism
+- fencing
+- figure skating
+- horse racing
+- judo
+- karate
+- kendo
+- kickboxing
+- kung fu
+- long jump
+- marathon
+- mixed martial arts
+- muay thai
+- pole vault
+- powerlifting
+- racewalking
+- rhythmic gymnastics
+- sprint
+- sumo
+- sword-fighting
+- trail running
+- trampolining
+- tumbling
+- ultimate
+- walking
+- weightlifting
+- wrestling
+- ball sports
+- baseball
+- basketball
+- tennis
+- badminton
+- bowling
+- cricket
+- curling
+- dodgeball
+- football
+- golf
+- handball
+- hockey
+- horseball
+- hurling
+- ice hockey
+- kickball
+- lacrosse
+- paddle
+- polo
+- racquetball
+- rinkball
+- rounders
+- rugby
+- soccer
+- softball
+- squash
+- table tennis
+- unicycling basketball
+- unicycling handball
+- unicycling hockey
+- volleyball
+- water polo
+- base jumping
+- abseiling
+- bouldering
+- gliding
+- kiteboarding
+- kitesurfing
+- parachuting
+- paragliding
+- parasailing
+- skateboarding
+- skydiving
+- skysurfing
+- snowboarding
+- wakeoarding
+- windsurfing
+- climbing
+- cross-country cycling
+- hiking
+- mountaineering
+- motorised sports
+- deportes de motor
+- drifting
+- formula racing
+- kart racing
+- rallycross
+- mind sports
+- airsoft
+- aquathlon
+- ballooning
+- barrel racing
+- biathlon
+- capoeira
+- cheerleading
+- crossfit
+- dancing
+- darts
+- decathlon
+- foosball
+- gymkhana
+- heptathlon
+- jogging
+- laser tag
+- paintball
+- parkour
+- petanque
+- pool
+- triathlon
+- bridge
+- chess
+- mahjong
+- mountain sports
+- extreme sports
+- game
+- games
+- bout
+- competition
+- contest
+- event
+- match
+- matchup
+- meet
+- sweepstakes
+- tournament
+- tourney
+- battles
+- conflicts
+- skirmishes
+- struggles
+- tussles
+- championships
+- finals
+- nightcaps
+- derbies
+- biathlons
+- decathlons
+- heptathlons
+- pentathlons
+- triathlons
+- marathons
+- races
+- volleys
+- foot
+- geme
+
+## intent:education
+- expenditure
+- instruction
+- lessons
+- price
+- schooling
+- teaching
+- training
+- tutelage
+- tutoring
+- education
+- debt
+- due
+- home loan
+- liability
+- loan
+- outstanding
+- bank loan
+- educational loan
+- government loan
+- loan
+- subsidized loan
+- album
+- booklet
+- brochure
+- copy
+- dictionary
+- edition
+- essay
+- fiction
+- magazine
+- manual
+- novel
+- pamphlet
+- paperback
+- publication
+- text
+- textbook
+- tome
+- volume
+- work
+- writing
+
+## intent:shopping
+- dogs
+- cats
+- muntjac deer
+- raccoons
+- ring-tail possum
+- short-tailed possum.
+- parakeets
+- cockatiels
+- lovebirds
+- conures
+- lorikeets
+- rabbits
+- guinea pigs
+- mice
+- hamsters
+- gerbils
+- rats
+- hedgehogs
+- ferrets
+- chinchillas
+- squirrels
+- sugar gliders
+- horses
+- burros
+- goats
+- llamas
+- pot-bellied pigs
+- aviary birds
+- ducks
+- geese
+- bodega
+- greengrocery
+- minimarket
+- supermarket
+- delicatessen
+- market
+- store
+- beverages
+- coffee
+- tea
+- juice
+- soda
+- bread
+- bakery
+- sandwich loaves
+- dinner rolls
+- tortillas
+- bagels
+- canned
+- jarred goods
+- vegetables
+- spaghetti sauce
+- ketchup
+- dairy
+- cheeses
+- eggs
+- milk
+- yogurt
+- butter
+- dry
+- baking goods
+- cereals
+- flour
+- sugar
+- pasta
+- mixes
+- frozen foods
+- waffles
+- vegetables
+- individual meals
+- ice cream
+- meat
+- lunch meat
+- poultry
+- beef
+- pork
+- produce
+- fruits
+- cleaners
+- laundry detergent
+- dishwashing liquid
+- paper towels
+- toilet paper
+- aluminum foil
+- sandwich bags
+- personal care
+- shampoo
+- soap
+- hand soap
+- shaving cream
+- baby items
+- pet items
+- batteries
+- greeting cards
+- electronic
+- foods
+- clothes
+- shoes
+- skirt
+- bikini
+- dress pants
+- jumper
+- sneakers
+- hoodie
+- vest
+- high heels
+- flip flops
+- handbag
+- tank top
+- singlet
+- boots
+- shorts
+- polo shirt
+- umbrella
+- dress
+- hawaiian shirt
+- mittens
+- socks
+- swimsuit
+- trench coat
+- winter coat
+- straw hat
+- cap
+- scarf
+- sunglasses
+- apron
+- necklace
+- watch
+- socks
+- tie
+- bow tie
+- purse
+- ring
+- gloves
+- scarf
+- umbrella
+- boots
+- mittens
+- stockings
+- earmuffs
+- hair band
+- safety pin
+- pocket watch
+- beanie
+- cap
+- beret
+- straw hat
+- derby hat
+- helmet
+- top hat
+- mortar board
+- overalls
+- mittens
+- beanie
+- baby apron
+- socks
+- diaper
+- singlet
+- shoes
+- safety pin
+- sweater
+- shirt
+- jeans
+- gloves
+- cap
+- suit
+- hawaiian shirt
+- singlet
+- business shoes
+- flip flops
+- shorts
+- cardigan
+- jacket
+- sport shoes
+- bow tie
+- sleeveless shirt
+- vest
+- long-sleeve top
+- polo shirt
+- jumper
+- trench coat
+- bathrobe
+- cargo pants
+- swimsuit
+- blazer
+- t-shirt
+- belt
+- underpants
+- waistcoat
+- socks
+- tie
+- pullover
+- umbrella
+- scarf
+- sunglasses
+- glasses
+- boots
+- wallet
+- handbag
+- watch
+- wedding dress
+- sweater
+- t-shirt
+- sheath dress
+- dress
+- gym clothes
+- bra
+- tank top
+- shorts
+- hoodie
+- jeans
+- long coat
+- uniform
+- coat
+- dress pants
+- swimsuit
+- long-sleeve top
+- skirt
+- thong
+- hat
+- necklace
+- ring
+- earrings
+- perfume
+- mittens
+- sunglasses
+- handbag
+- bracelet
+- purse
+- watch
+- umbrella
+- scarf
+- slip
+- high-heeled shoes
+- flip-flops
+- boots
+- stockings
+- jacket
+- beanie
+- sweater
+- gloves
+- fleece jacket
+- jeans
+- mittens
+- scarf
+- socks
+- trench coat
+- jacket
+- long coat
+- long-sleeve top
+- boots
+- earmuffs
+- cardigan
+- t-shirt
+- dress
+- singlet
+- cap
+- one-piece bathing suit
+- hawaiian shirt
+- sunglasses
+- swim trunks
+- straw hat
+- polo shirt
+- overalls
+- bikini
+- shorts
+- tank top
+- flip flops
+- toner
+- mirror
+- brightener
+- makeup kit
+- nail polish
+- lip gloss
+- lip liner
+- foundation
+- eyeliner
+- eye shadow
+- lipstick
+- mascara
+- cleanser
+- tanning lotion
+- bronzer
+- moisturizer
+- face cream
+- concealer
+- primer
+- blush
+- brush
+- perfume
+- hand lotion
+- razor
+- tissues
+- sunglasses
+- hand mirror
+- wet wipe
+- toothbrush
+- sunscreen
+- deodorant
+- armchair
+- armoire
+- bar stool
+- bassinet
+- beach chair
+- bean bag chair
+- bed
+- bed table
+- bench
+- bentwood rocker
+- bergere
+- bookcase
+- bookshelf
+- breakfront
+- buffet
+- bunk bed
+- bureau
+- cabinet
+- canopy bed
+- captain's chair
+- card table
+- carpet
+- cart
+- chair
+- chaise lounge
+- chandelier
+- chest
+- chest of drawers
+- china cabinet
+- clothes valet
+- club chair
+- coffee table
+- console
+- cot
+- couch
+- cradle
+- credenza
+- crib
+- cubbies
+- cupboard
+- curio
+- curtains
+- cushion
+- deck chair
+- desk
+- desk chair
+- dining room table
+- director's chair
+- display cabinet
+- divan
+- drapery
+- drapes
+- dresser
+- game table
+- garden bench
+- gateleg table
+- glider rocker
+- grandfather clock
+- pantry
+- park bench
+- patio chair
+- patio table
+- pew
+- piano bench
+- picnic table
+- pillow
+- porch swing
+- table
+- tansu
+- tea cart
+- throne
+- throw rug
+- trundle bed
+- tuffet
+- action and adventure
+- architecture
+- alternate history
+- autobiography
+- anthology
+- biography
+- chick lit
+- business
+- economics
+- children
+- crafts
+- hobbies
+- classic
+- cookbook
+- comic book
+- diary
+- coming-of-age
+- dictionary
+- crime
+- encyclopedia
+- drama
+- guide
+- fairytale
+- health
+- fantasy
+- history
+- graphic novel
+- home and garden
+- historical fiction
+- humor
+- horror
+- journal
+- mystery
+- math
+- paranormal romance
+- memoir
+- picture book
+- philosophy
+- poetry
+- prayer
+- political thriller
+- religion
+- romance
+- textbook
+- satire
+- true crime
+- science fiction
+- review
+- short story
+- science
+- suspense
+- self help
+- thriller
+- sports and leisure
+- western
+- travel
+- young adult
+- true crime
+- audio system
+- home audio
+- avionics
+- car audio
+- car navigation
+- copy machine
+- computer
+- personal computer
+- digital camera
+- display device
+- digital video camera
+- digital video player
+- digital video recorder
+- fax
+- global positioning system
+- hard disk drive
+- multifunction printer
+- mechatronics
+- mobile phone
+- network device
+- portable media player
+- printer
+- semiconductor
+- video cassette recorder
+- video game
+- video game developer
+- video game publisher
+- indie game developer
+- transportation electronics system
+- television
+- wireless devices
+- microsoft office 
+- acrobat reader
+- adobe
+- competitive
+- outdoor
+- indoor
+- creative
+- racing
+- martial arts
+- self defense
+- air soft
+- american football
+- archery
+- australian football
+- badminton
+- baton twirling
+- baseball
+- basketball
+- beach volleyball
+- bicycling
+- billiards
+- bodybuilding
+- bowling
+- boxing
+- cheer leading
+- chess tournaments
+- cooking competitions
+- color guard
+- cricket
+- curling
+- antiques
+- artwork
+- book
+- buttons
+- card
+- coin
+- comic books
+- deltiology (postcard collecting)
+- diecast cars
+- elements
+- guns
+- hats
+- insect
+- metal
+- movie memorabilia
+- music albums and records
+- sea glass
+- seashells
+- cycling
+- fencing
+- roller derby
+- roller skating
+- rugby
+- sailing
+- skateboarding
+- skeet shooting
+- skiing
+- snowboarding
+- soccer
+- association football
+- speed skating
+- surfing
+- swimming
+- field hockey
+- figure skating
+- fish tournaments
+- flag football
+- floor-ball
+- golfing
+- handball
+- dancing
+- darts
+- debate
+- disc golf
+- dodge-ball
+- dog sports
+- falconry
+- collecting
+- animal
+- music
+- writing
+- unusual
+- cooking
+- rope
+- cord
+- webbing
+- carabiners
+- quick-draws
+- harnesses
+- belay devices
+- rappel devices
+- figure eight
+- rescue eight
+- rappel rack
+- ascenders
+- sling
+- daisy chain
+- protection devices
+- nuts
+- hexes
+- spring-loaded clamming devices
+- tricams
+- hang-boards
+- grip savers
+- campus boards
+- bachar ladder
+- specialized clothing
+- helmet
+- climbing shoes
+- belay gloves
+- miscellaneous equipment
+- tape
+- haul bag
+- gear sling
+- chalk
+- baseball bat
+- baseball ball
+- gloves
+- helmets
+- catchers gear
+- bags
+- tee ball
+- training aids
+- back stops
+
+## intent:personal care
+- hair dryer
+- hair clip
+- comb
+- hair iron
+- hair roller
+- hair clipper
+- hairbrush
+- hairpin
+- headband
+- kanzashi
+- ribbon
+- hair tie
+- scissors
+- shower cap
+- hair coloring
+- hair conditioner
+- hair gel
+- hair glue
+- hair mousse
+- hair serum
+- hair spray
+- hair tonic
+- hair wax
+- pomade
+- beauty parlor
+- barber
+- hair salon
+- hairdressing salon
+- salon de beauté
+- styling salon
+- tonsorium
+- barber
+- beauty parlor
+- beauty salon
+- hair salon
+- hairdressing salon
+- salon de beauté
+- styling salon
+- tonsorium
+- beauty treatment
+- cosmetology
+- skin care
+- cosmetic treatments
+- beauty treatments
+- hotel
+- lodge
+- sanitarium
+- sauna
+- whirlpool
+- day spa
+- rub-down
+- rubbing
+- manipulation
+- kneading
+- reflexology
+- shiatsu
+- acupressure
+- chiropractic treatment
+- palpation
+- swedish
+- aromatherapy massage
+- hot stone
+- deep tissue
+- shiatsu
+- thai massage
+- prenatal
+- reflexology
+- sports massage
+- finding a therapist
+- cost
+
+## intent:health & fitness
+- medical man
+- exodontist 
+- endodontist 
+- periodontist 
+- medical 
+- practitioner 
+- dental 
+- practitioner 
+- orthodontist 
+- prosthodontist 
+- tooth doctor 
+- pedodontist 
+- dental surgeon 
+- expert
+- physician
+- professor
+- scientist
+- specialist
+- surgeon
+- md
+- bones
+- doc
+- healer
+- intern
+- medic
+- medico
+- eye service
+- ophthalmology
+- opthalmology
+- ophthalmologist
+- ophthalmologic apparatus
+- ophthalmologic
+- opthalmic
+- ophthalmological
+- ophthal
+- apothecary
+- dispensary
+- drugstore
+- pharmacopoeia
+- pharmacy
+- pharmaceutics 
+- medical specialty  
+- gymnasium
+- spa
+- health spa
+- health club
+- aerobics studio
+- exercise room
+- fitness centre
+- leisure centre
+- sports centre
+- sports club
+- sports hall
+- ring
+- stadium
+- coliseum
+- amphitheatreuk
+- amphitheaterus
+- ground
+- field
+- theatreuk
+- dome
+- showground
+- rink
+- fitness center
+- health farm
+- theaterus
+- circus
+- hippodrome
+- pit
+- course
+- heafield
+- gymnasium
+- park
+- ring
+- rink
+- square
+- stadium
+- stage
+- athletics
+- game
+- exercise
+- games
+- play
+- physical activity
+- adventure sports
+- athletics
+- fun
+- game
+- pastime
+- action
+- amusement
+- ball
+- disport
+- diversion
+- exercise
+- frolic
+- gaiety
+- games
+- picnic
+- play
+- pleasure
+- recreation
+- fun and games
+- physical activity
+- snorkeling
+- olympic swimming
+- bodyboarding
+- diving
+- freediving
+- paddleboarding
+- rowing
+- scuba diving
+- synchronized swimming
+- strength and agility sports
+- aerobics
+- aikido
+- archery
+- artistic gymnastics
+- baton twirling
+- bodybuilding
+- boxing
+- cross-country equestrianism
+- cross-country running
+- cycling
+- discus throw
+- equestrianism
+- fencing
+- figure skating
+- horse racing
+- judo
+- karate
+- kendo
+- kickboxing
+- kung fu
+- long jump
+- marathon
+- mixed martial arts
+- muay thai
+- pole vault
+- powerlifting
+- racewalking
+- rhythmic gymnastics
+- sprint
+- sumo
+- sword-fighting
+- trail running
+- trampolining
+- tumbling
+- ultimate
+- walking
+- weightlifting
+- wrestling
+- ball sports
+- baseball
+- basketball
+- tennis
+- badminton
+- bowling
+- cricket
+- curling
+- dodgeball
+- football
+- golf
+- handball
+- hockey
+- horseball
+- hurling
+- ice hockey
+- kickball
+- lacrosse
+- paddle
+- polo
+
+## intent:food & dining
+- bistro
+- cafeteria
+- chophouse
+- coffee bar
+- coffee shop
+- diner
+- eating house
+- hash house
+- joint
+- luncheonette
+- lunchroom
+- noshery
+- pit stop
+- snack bar
+- soup house
+- tearoom
+- burger joint
+- cake shop
+- grease joint
+- greasy spoon
+- consignment
+- distribution
+- shipment
+- transmission
+- carting
+- commitment
+- conveyance
+- dispatch
+- drop
+- mailing
+- portage
+- post
+- buvette
+- cantina
+- concession
+- concession stand
+- drive-in
+- fast-food restaurant
+- hamburger stand
+- hot-dog stand
+- lunch counter
+- burger king whopper sandwich
+- five guys cheeseburger
+- kfc original recipe chicken
+- white castle sliders
+- sonic cherry limeade
+- arby's roast beef sandwich
+- wendy's frosty
+- mcdonald's happy meal
+- starbucks pumpkin spice latte
+- taco bell burrito supreme
+- tacos
+- chick-fil-a chicken sandwich
+- dunkin' donuts coffee
+- krispy kreme original glazed doughnuts
+- taco bell's nacho fries
+- culver's butterburger
+- whataburger taquito with cheese
+- domino's pepperoni pizza
+- chick-fil-a iced tea
+- bistro
+- ethnic restaurant
+- fine dining restaurant
+- trattoria
+- teppanyaki-ya
+- osteria
+- drive-in restaurant
+- drive-thru restaurant
+- pizzeria
+- taverna
+- fast casual restaurant
+- pop-up restaurant
+- ramen-ya
+- teahouse
+-  fast food 
+- buffet-style restaurant
+- luncheonette
+- steakhouse
+- kosher restaurant
+- dark restaurant
+- gastropub
+- brasserie
+- chiringuito
+- churrascaria
+- mcdonald
+- pizza hut
+- starbucks
+- bar
+- dive bar
+- cigar bar
+- lounge
+- sports bar
+- nightclub
+- college bar
+- irish pub
+
+## intent:bills and utilities
+- audio
+- box
+- station
+- video
+- tv
+- baby-sitter
+- eye
+- receiver
+- telly
+- tube
+- boob tube
+- idiot box
+- small screen
+- telly
+- television set
+- broadcasting
+- video
+- tv
+- broadcast
+- screen
+- news
+- network
+- box
+- telecast
+- small screen
+- media
+- idiot box
+- pay-tv
+- television receiver
+- tv set
+- broadcaster
+- boob tube
+- television broadcasting
+- television station
+- entertainment system
+- telecasting
+- television system
+- wobbly jelly
+- television network
+- tidings
+- news medium
+- impedance
+- news service
+- wire service
+- newscasts
+- television programmes
+- information center
+- information medium
+- information industry
+- television transmitter
+- television tube
+- tube
+- gogglebox
+- tv-set
+- telecommunication system
+- home telephone
+- landline phone
+- landline telephone
+- land line
+- fixed-line telephone
+- stationary telephone
+- stationary phone
+- landline
+- fixed telephone
+- stationary telephone
+- stationary phone
+- landline
+- fixed telephone
+- fixed phone
+- hard line
+- private telephone
+- main line
+- home telephone number
+- fixed-line phone
+- corded telephone
+- corded phone
+- desk telephone
+- desk phone
+- conventional phone
+- conventional telephone
+- house phone
+- fixed line telephone
+- house number
+- personal cell
+- land-line
+- burn phone
+- fixed-line
+- the information superhighway
+- the net
+- the web
+- the world wide web
+- cyberspace
+- the cloud
+- blogosphere
+- the interweb
+- blogostream
+- extranet
+- podosphere
+- car phone
+- cell
+- cellphone
+- cell phone
+- cell telephone
+- cellular
+- cellular mobile
+- cellular phone
+- cellular telephone
+- digital phone
+- handphone
+- mobile
+- mobile telephone
+- radiotelephone
+- wireless phone
+- iphone
+- smartphone
+- electricity
+- power
+- current
+- energy
+- mains
+- galvanism
+- static
+- electric power
+- electromagneticism
+- electron
+- heat
+- hydro
+- ignition
+- juice
+- leccy
+- light
+- magneticism
+- power supply
+- service
+- spark
+- tension
+- voltage
+- electrical energy
+- energized matter
+- hot stuff
+- electric energy
+- electrical power
+- water power
+
+## intent:auto & transport
+- auto insurance
+- automobile insurance
+- motor insurance
+- motor vehicle insurance
+- vehicle insurance
+- off the car
+- insurance
+- insurance of land vehicles
+- insurance purchased for cars
+- insurance purchased for trucks
+- insurance purchased for motorcycles
+- insurance purchased for road vehicles
+- insurance purchased for vehicles
+- insurance purchased for land vehicles
+- insurance for land vehicles
+- insurance for vehicles
+- insurance for cars
+- insurance for trucks
+- insurance for motorcycles
+- insurance for road vehicles
+- insurance purchased by vehicle owners
+- insurance for loss of a car
+- insurance for damage to cars
+- automotive insurance
+- autopay
+- automatic payment
+- payment
+- reimbursement
+- remittance
+- reparation
+- repayment
+- compensation
+- disbursement
+- remitment
+- remittance
+- remunerations
+- park
+- car park
+- parking 
+- garage
+- deploying
+- emplacing
+- fixing
+- locating
+- planting
+- positioning
+- setting
+- situating
+- stationing
+- lrt
+- busline
+- light rail
+- mass transit
+- metro
+- rail rapid transit
+- railway
+- rapid transit
+- subway
+- urban transportation service
+- bus  
+- train
+- car parts
+- automotive component
+- spares
+- auto body
+- automobile parts
+- automotive parts
+- spare parts
+- motor vehicle parts
+- auto part
+- automatic parts
+- automotive components
+- motor vehicle spare parts
+- autoparts
+- auto-parts
+- auto supply
+- spare part
+- components
+- replacement parts
+- auto parts store
+- car part
+- parts
+- elements
+- titanium auto part as set
+- supplies
+- self dispatch
+- component parts
+- sections
+- split
+- aspects
+- automobile spare parts
+- chauffeur
+- hack
+- taxicab
+- hack
+- ride
+- cab fare
+- cabbie
+- cab
+- uber
+- cabdriver
+- taxis
+- minicab
+- chit
+- car service
+- by cab
+- cabby
+- taxi cab
+- driver
+- cab ride
+- by taxi
+- cab driver
+- taxi driver
+- taxi out
+- in a taxi
+- petrol
+- gasoline
+- incite
+- feed
+- power
+- gas
+- kerosene
+- stimulate
+- diesel
+- inflame
+- fire
+- petroleum
+- firewood
+- fuelwood
+- nourish
+- kindling
+- firing
+- combustible
+- supply
+- juice
+- fuel oil
+- nourishment
+- encourage
+- food
+- gasoil
+- provoke
+- excite
+- feeding
+- wood
+- refuel
+- charge
+- stir up
+- refueling
+- oil
+- refuelling
+- stoke up
+- sustain
+- fuelling
+- nurture
+- stoking
+- ammunition
+- propellant
+- fill up
+- exacerbate
+- benzine
+- fire wood
+- energetics
+- combustion
+- tank
+- kindle
+
+## intent:travel
+- aviation
+- air transportation
+- air transport
+- airline
+- airlift
+- air traffic
+- aircraft
+- flights
+- air freight
+- airline industry
+- airfare
+- plane ride
+- air
+- air-transport
+- air operations
+- air service
+- aeronautics
+- flight
+- motel
+- room
+- hostel
+- house
+- hostelry
+- boarding house
+- staff
+- location
+- lodge
+- resort
+- bed and breakfast
+- accommodation
+- restaurant
+- guest house
+- hospitality
+- tavern
+- lodging
+- breakfast
+- place
+- car park
+- at the hotel
+- carpark
+- parking facilities
+- reception desk
+- guesthouse
+- rooms
+- comfortableness
+- in a hotel
+- letting 
+- self-drive 
+- u-drive 
+- hire car 
+- car rental 
+- lease 
+- you-drive 
+- rental 
+- holiday
+- break
+- leave
+- rest
+- time off
+- recess
+- leave of absence
+- sabbatical
+- holidays
+- furlough
+- leisure
+- vacationing
+- summer
+- recreation
+- spring break
+- take a holiday
+- trip
+- stay
+- holidaying
+- tour
+- respite
+- day off
+- liberty
+- have a rest
+- take a rest
+- vacay
+- relax
+- vacation time
+- take a vacation
+- relaxation
+- sojourn
+- visit
+- resting
+- leisure time
+- leave period
+- vacations
+- go on vacation
+- sleep
+- travel
+- pause
+- take some time off
+- recreational
+- time out
+- go on a vacation
+- take time off
+- take vacations
+- go on holiday
+- weekend
+- have a holiday
+- repose
+
+## intent:fees & charges
+- service charge
+- cost of service
+- servicing costs
+- service charges
+- fee for service
+- fees for services
+- service costs
+- fee-for-service
+- remuneration for services
+- delay penalties
+- late payment charge
+- delay penalty
+- late charge
+- outstanding assessed contributions
+- late payment
+- assessed contributions due
+- late payment penalties
+- late penalties
+- financial expenses
+- financial charges
+- financial expense
+- financial costs
+- carrying charges
+- finance costs
+- financing costs
+- capital charge
+- financing expenses
+- usage fee
+- user fee
+- cost of using
+- external fees
+- usage charges
+- user fees
+- usage fees
+- charges for the use
+- charging
+- business use of home expenses
+- user charges
+- fees for the use
+- use fees
+- costs of using
+- banking services
+- banking facilities
+- service charges
+- fees
+- bank services
+- csd-banking service provider
+- bank service
+- current accounts
+- savings
+- credit
+- debit cards
+- credit cards
+- checks
+- ovedraft
+- personal loans
+- business loans 
+- purposose loans
+- non-purpose loans
+- investment loans
+- investmen advices
+- money transfers
+- payment processing
+- retail & sme banking
+- corporate banking
+- private banking
+- investment banking
+- clearing services
+- insurance products
+- account
+- bill
+- commission
+- compensation
+- cost
+- cut
+- expense
+- pay
+- payment
+- price
+- reward
+- salary
+- share
+- stipend
+- wage
+- charge
+- commission
+- provision
+- panel
+- fee
+- commissioner
+- commissary
+- committee
+- errand
+- brokerage
+- board
+- money-back policy	
+- unit-linked insurance plan	
+- pension plans	
+- motor insurance	
+- home insurance	
+- health insurance	
+- fire insurance
+- common stock
+- preferred stock
+- additional paid-in capital
+- treasury stock
+- accumulation
+- hoard
+- nest egg
+- economise
+- economize
+- save
+- scrimp
+- retrench
+- be sparing
+- cut back
+- refund
+- reimburse
+- give back
+- reciprocate
+- render
+- compensate
+- recompense
+- remunerate
+- liquidate
+- pay down
+- pay off
+- pay up
+- settle 
+- pay back
+- compensation
+- reimbursement
+- reparation
+- restitution
+- restoration
+
+## intent:home
+- lease
+- rental unit
+- lease
+- gash
+- incision
+- laceration
+- rip
+- slash
+- slit
+- tear
+- contract
+- debt
+- deed
+- pledge
+- title
+- commit
+- engage
+- pledge
+- troth
+- mortgage
+- advance
+- contract
+- debt
+- deed
+- hypothecation
+- loan
+- pledge
+- remortgage
+- title
+- bank loan
+- bridging loan
+- homeowner's loan
+- second mortgage
+- home equity loan
+- car loan
+- home loan
+- small business loan
+
+## intent:business services
+- billing
+- blurb
+- come-on
+- commercial
+- message
+- pitch
+- plugola
+- spot
+- word
+- advert
+- barking
+- calling
+- commercial
+- economic
+- fiscal
+- monetary
+- banking
+- budgeting
+- financial facilities
+- finance branch
+- financial services
+- finance services
+- banking
+- finance
+- financing facilities
+- financial inclusion
+- stationery
+- materials
+- chancellery
+- office equipment
+- office supply
+- office furniture
+- stationary
+- office material
+- chancery
+- registry
+- printing house
+- printing office
+- workplace
+- printing shop
+- workplace
+- printing business
+- printshop
+- printing-press
+- print works
+- printing company
+- printing works
+- copy place
+- printing services
+- printed
+- press
+- service delivery
+- delivery of services
+- provision of services
+- provide services
+- service provision
+- servicing
+- providing services
+- deliver services
+- service
+- care
+- outreach
+- ship
+- passenger
+- sailing
+- steam
+- synonyms
+- antonyms
+- definitions
+- examples
+- phrases
+- nouns
+- adjectives
+- legal department
+- legal services
+- legal office
+- legal offices
+- justice division
+- legal consultants
+- legal division
+- legal staff
+- counsel
+- jurisconsult
+- constitutional
+- contractual
+- fair
+- juridical
+- lawful
+- legitimate
+- proper
+- statutory
+- valid
+
+## intent:personal services
+- advisory
+- consultative
+- counseling
+- hortative
+- recommendatory
+- admonishing
+- admonitory
+- cautionary
+- cautioning
+- exemplary
+- monitory
+- premonitory
+- warning
+- aiding
+- assisting
+- helping
+- didactic
+- moralistic
+- moralizing
+- commercial
+- economic
+- fiscal
+- monetary
+- banking
+- budgeting
+- financial facilities
+- finance branch
+- financial services
+- finance services
+- banking
+- finance
+- barrister
+- counselor
+- legal expert
+- attorney
+- counsel
+- counsellor
+- defender
+- judge
+- justice
+- lawyer
+- magistrate
+- advocate
+- counselor
+- care
+- conservation
+- preservation
+- supply
+- upkeep
+- adjustment
+- improvement
+- overhaul
+- reconstruction
+- rehabilitation
+- replacement
+- internal revenue service
+- tax authorities
+- revenue service
+- tax office
+- revenue authority
+- fiscal services
+- taxation services
+- tax services
+- tax administration
+- tax authority
+- tax agency
+- fiscal authorities
+
+## intent:tpe
+- atm
+- countertop card machines
+- mortable card machines
+- mobile card machines
+- smartphone or tablet card readers
+- virtual terminals for card payments

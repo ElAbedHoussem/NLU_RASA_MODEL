@@ -1,0 +1,104 @@
+## intent:food & dining-coffee shops
+- bistro
+- cafeteria
+- chophouse
+- coffee bar
+- coffee shop
+- diner
+- eating house
+- hash house
+- joint
+- luncheonette
+- lunchroom
+- noshery
+- pit stop
+- snack bar
+- soup house
+- tearoom
+- burger joint
+- cake shop
+- grease joint
+- greasy spoon
+
+## intent:food & dining-delivery
+- consignment
+- distribution
+- shipment
+- transmission
+- carting
+- commitment
+- conveyance
+- dispatch
+- drop
+- mailing
+- portage
+- post
+
+## intent:food & dining-fast food
+- buvette
+- cantina
+- concession
+- concession stand
+- drive-in
+- fast-food restaurant
+- hamburger stand
+- hot-dog stand
+- lunch counter
+- burger king whopper sandwich
+- five guys cheeseburger
+- kfc original recipe chicken
+- white castle sliders
+- sonic cherry limeade
+- arby's roast beef sandwich
+- wendy's frosty
+- mcdonald's happy meal
+- starbucks pumpkin spice latte
+- taco bell burrito supreme
+- tacos
+- chick-fil-a chicken sandwich
+- dunkin' donuts coffee
+- krispy kreme original glazed doughnuts
+- taco bell's nacho fries
+- culver's butterburger
+- whataburger taquito with cheese
+- domino's pepperoni pizza
+- chick-fil-a iced tea
+
+## intent:food & dining-restaurants
+- bistro
+- ethnic restaurant
+- fine dining restaurant
+- trattoria
+- teppanyaki-ya
+- osteria
+- drive-in restaurant
+- drive-thru restaurant
+- pizzeria
+- taverna
+- fast casual restaurant
+- pop-up restaurant
+- ramen-ya
+- teahouse
+-  fast food 
+- buffet-style restaurant
+- luncheonette
+- steakhouse
+- kosher restaurant
+- dark restaurant
+- gastropub
+- brasserie
+- chiringuito
+- churrascaria
+- mcdonald
+- pizza hut
+- starbucks
+
+## intent:food & dining-bars
+- bar
+- dive bar
+- cigar bar
+- lounge
+- sports bar
+- nightclub
+- college bar
+- irish pub

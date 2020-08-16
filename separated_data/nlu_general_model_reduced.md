@@ -1,0 +1,709 @@
+## synonym:uncategorized
+- abm
+- atm
+- card
+- cash card
+- cash dispenser 
+- cash machine
+- cashpoint
+- bread
+- bucks
+- cabbage
+- change
+- chips
+- coin
+- money
+- moola
+- needful
+- pelf
+- scratch
+- shekels
+- dab
+- atmm
+- etm
+- cashh
+- cach
+- cartt
+- check
+- chequebook
+- checkbook
+- cheque book
+- check book
+- cheque-book
+- passbook
+- checkbooks
+- check card
+- cheques
+- checks
+- cheque
+- legal pad
+- bank book
+- cheque books
+- bank balance
+- ration card
+- chequebooks
+- counterfoil
+- ledger
+- blotter
+- checke
+- chech
+- chek 
+
+## synonym:uncategorized
+- uncategorized
+- ancategorized
+- noncategorized
+- noncategoriser
+- noncategorisée
+- non-categorisée
+- non-categoriser
+
+## intent:entertainment
+- craft
+- profession
+- adroitness
+- aptitude
+- artistry
+- craftsmanship
+- dexterity
+- expertise
+- facility
+- imagination
+- ingenuity
+- inventiveness
+- knack
+- know-how
+- knowledge
+- mastery
+- animation
+- artt
+- artiste
+- game
+- playing
+- ar
+- craft
+- alternative
+- art punk
+- alternative rock
+- britpunk
+- college rock
+- anime
+- blues
+- avant-garde
+- ballet
+- string quartet
+- chant
+- choral
+- singing
+- picture
+- show
+- videotape
+- celluloid
+- screenplay
+- talkie
+- vedeo
+- dvd
+- cd
+- booklet
+- brochure
+- manual
+- newsletter
+- newspaper
+- pamphlet
+- periodical
+- broadside
+- circular
+- digest
+- glossy
+- organ
+- pulp
+- quarterly
+- review
+- semiweekly
+- sheet
+- slick
+- throwaway
+- conflicts
+- skirmishes
+- struggles
+- tussles
+- volleys
+- foot
+- geme
+
+## intent:education
+- expenditure
+- instruction
+- lessons
+- price
+- schooling
+- teaching
+- training
+- tutelage
+- tutoring
+- education
+- debt
+- due
+- home loan
+- liability
+- loan
+- outstanding
+- bank loan
+- educational loan
+- government loan
+- loan
+- subsidized loan
+- album
+- booklet
+- brochure
+- copy
+- dictionary
+- edition
+- essay
+- fiction
+- magazine
+- manual
+- novel
+- pamphlet
+- paperback
+- publication
+- text
+- textbook
+- tome
+- volume
+- work
+- writing
+
+## synonym:education
+- kraya
+- etude
+- prof
+- ostadh
+- licee
+
+## intent:shopping
+- dogs
+- cats
+- muntjac deer
+- raccoons
+- ring-tail possum
+- short-tailed possum.
+- parakeets
+- cockatiels
+- lovebirds
+- conures
+- lorikeets
+- health
+- fantasy
+- history
+- graphic novel
+- home and garden
+- historical fiction
+- humor
+- horror
+- journal
+- mystery
+- transportation electronics system
+- television
+- wireless devices
+- microsoft office 
+- acrobat reader
+- adobe
+- competitive
+- outdoor
+- indoor
+- ascenders
+- sling
+- gear sling
+- chalk
+- baseball bat
+- baseball ball
+- gloves
+- helmets
+- catchers gear
+- bags
+- tee ball
+- training aids
+- back stops
+
+## synonym:shopping
+- shopping
+- shoping
+- e-commerce
+- ecommerce
+- shoppe
+- shopp
+- chopp
+- choppe
+- boutic
+- boutiqu
+- botique
+- botic
+- pantalan
+- pontalon
+- poontalon
+- chemise
+- chemice
+- chemise
+- chossure
+- chossures
+- chosure
+- chosette
+- chosettes
+
+## intent:personal care
+- hair dryer
+- hair clip
+- comb
+- hair iron
+- hair roller
+- hair clipper
+- hairbrush
+- hairpin
+- headband
+- kanzashi
+- ribbon
+- hair tie
+- scissors
+- shower cap
+- hair coloring
+- hair conditioner
+- hair gel
+- hair glue
+- hair mousse
+- hair serum
+- hair spray
+- hair tonic
+- hair wax
+- pomade
+- hair salon
+- hairdressing salon
+- salon de beauté
+- styling salon
+- tonsorium
+- expert
+- physician
+- professor
+- scientist
+- specialist
+- kendo
+- ball sports
+- baseball
+- basketball
+- tennis
+- badminton
+- bowling
+- cricket
+- curling
+- dodgeball
+- football
+- golf
+- handball
+- hockey
+- horseball
+- hurling
+- ice hockey
+- kickball
+- lacrosse
+- paddle
+- polo
+
+## intent:food & dining
+- bistro
+- sandwich
+- cafeteria
+- chophouse
+- coffee bar
+- coffee shop
+- diner
+- eating house
+- hash house
+- joint
+- luncheonette
+- lunchroom
+- noshery
+- pit stop
+- snack bar
+- soup house
+- tearoom
+- burger joint
+- cake shop
+- grease joint
+- greasy spoon
+- consignment
+- distribution
+- shipment
+- transmission
+- carting
+- commitment
+- conveyance
+- dispatch
+- drop
+- mailing
+- ethnic restaurant
+- fine dining restaurant
+- trattoria
+- pizza hut
+- pizza
+- starbucks
+- bar
+- dive bar
+- cigar bar
+- lounge
+- sports bar
+- nightclub
+- college bar
+- irish pub
+
+## synonym:food & dining
+- food
+- fod
+- drink
+- bear
+- pissa
+- sondwich
+- sendwich
+- café
+- caféé
+- cafer
+- cheeese
+- sheese
+- shese
+- piza
+- lham
+- hout
+
+## intent:bills and utilities
+- audio
+- box
+- station
+- video
+- tv
+- baby-sitter
+- tube
+- boob tube
+- small screen
+- television 
+- desk phone
+- conventional phone
+- conventional telephone
+- house phone
+- cellular mobile
+- cellular phone
+- cellular telephone
+- digital phone
+- handphone
+- mobile
+- mobile telephone
+- radiotelephone
+- wireless phone
+- iphone
+- smartphone
+- electricity
+- power
+- current
+- energy
+- galvanism
+- static
+- electric power
+- electromagneticism
+- electron
+- light
+- hot stuff
+- electric energy
+- electrical power
+- water power
+
+## synonym:bills and utilities
+- dhaw
+- thaw
+- mee
+- maaa
+- talifoun
+- teliphoun
+- telifoun
+
+## intent:auto & transport
+- auto insurance
+- automobile insurance
+- motor insurance
+- motor vehicle insurance
+- vehicle insurance
+- off the car
+- insurance
+- insurance of land vehicles
+- insurance purchased for cars
+- insurance purchased for land vehicles
+- insurance for land vehicles
+- insurance for vehicles
+- insurance for cars
+- insurance for trucks
+- motorcycles
+- remittance
+- bus  
+- train
+- car parts
+- automobile parts
+- automotive parts
+- spare parts
+- motor vehicle 
+- auto 
+- motor 
+- ride
+- cab driver
+- taxi driver
+- fuel oil
+- gasoil
+- kindle
+- mazout
+- essance
+
+## synonym:auto & transport
+- mazzout
+- esance
+- gasoil
+- gaze
+- taxii
+- karhba
+- kar
+
+## intent:travel
+- aviation
+- air transportation
+- air transport
+- airline
+- airlift
+- air traffic
+- aircraft
+- flights
+- air freight
+- airline industry
+- airfare
+- plane ride
+- air
+- air-transport
+- air operations
+- air service
+- aeronautics
+- flight
+- motel
+- room
+- hostel
+- house
+- lodging
+- breakfast
+- place
+- car park
+- at the hotel
+- carpark
+- parking facilities
+- reception desk
+- guesthouse
+- rooms
+- comfortableness
+- in a hotel
+- letting 
+- self-drive 
+- u-drive 
+- hire car 
+- car rental 
+- lease 
+- you-drive 
+- rental 
+- holiday
+- break
+- leave
+- rest
+- time off
+- recess
+- spring break
+- take a holiday
+- trip
+- stay
+- holidaying
+- leave period
+- vacations
+- go on vacation
+- sleep
+- travel
+- take time off
+- take vacations
+- go on holiday
+- weekend
+- have a holiday
+- repose
+- world trip
+
+## synonym:travel
+- rehla
+- rihla
+- doura
+
+## intent:fees & charges
+- service charge
+- cost of service
+- servicing costs
+- service charges
+- fee for service
+- fees for services
+- service costs
+- capital charge
+- financing expenses
+- usage fee
+- user fee
+- cost of using
+- external fees
+- usage charges
+- committee
+- errand
+- brokerage
+- board
+- money-back policy	
+- unit-linked insurance plan	
+- pension plans	
+- motor insurance	
+- home insurance	
+- health insurance	
+- fire insurance
+- common stock
+- preferred stock
+- additional paid-in capital
+- treasury stock
+- accumulation
+- hoard
+- nest egg
+- economise
+- economize
+- settle 
+- pay back
+- compensation
+- reimbursement
+- reparation
+- restitution
+- restoration
+
+## intent:home
+- lease
+- rental unit
+- lease
+- gash
+- incision
+- laceration
+- rip
+- slash
+- slit
+- tear
+- contract
+- debt
+- deed
+- pledge
+- title
+- commit
+- engage
+- pledge
+- troth
+- mortgage
+- advance
+- contract
+- debt
+- deed
+- hypothecation
+- loan
+- pledge
+- remortgage
+- title
+- bank loan
+- bridging loan
+- homeowner's loan
+- second mortgage
+- home equity loan
+- car loan
+- home loan
+- small business loan
+
+## intent:business services
+- billing
+- blurb
+- come-on
+- commercial
+- message
+- pitch
+- plugola
+- spot
+- word
+- advert
+- barking
+- calling
+- commercial
+- economic
+- fiscal
+- materials
+- stationary
+- office material
+- chancery
+- registry
+- printing house
+- printed
+- press
+- service delivery
+- delivery of services
+- provision of services
+- provide services
+- service provision
+- servicing
+- providing services
+- deliver services
+- service
+- care
+- outreach
+- ship
+- passenger
+- sailing
+- steam
+- legal offices
+- justice division
+- legal consultants
+- legal division
+- legal staff
+- counsel
+- jurisconsult
+- statutory
+- valid
+
+## intent:personal services
+- advisory
+- consultative
+- counseling
+- hortative
+- recommendatory
+- admonishing
+- admonitory
+- cautionary
+- cautioning
+- exemplary
+- care
+- conservation
+- preservation
+- supply
+- upkeep
+- adjustment
+- improvement
+- overhaul
+- reconstruction
+- rehabilitation
+- replacement
+- internal revenue service
+- taxation services
+- tax services
+- tax administration
+- tax authority
+- tax agency
+- fiscal authorities
+
+## intent:tpe
+- atm
+- countertop card machines
+- mortable card machines
+- mobile card machines
+- smartphone or tablet card readers
+- virtual terminals for card payments

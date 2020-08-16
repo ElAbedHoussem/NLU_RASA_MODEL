@@ -1,0 +1,112 @@
+
+## intent:travel-air travel
+- aviation
+- air transportation
+- air transport
+- airline
+- airlift
+- air traffic
+- aircraft
+- flights
+- air freight
+- airline industry
+- airfare
+- plane ride
+- air
+- air-transport
+- air operations
+- air service
+- aeronautics
+- flight
+
+## intent:travel-hotel
+- motel
+- room
+- hostel
+- house
+- hostelry
+- boarding house
+- staff
+- location
+- lodge
+- resort
+- bed and breakfast
+- accommodation
+- restaurant
+- guest house
+- hospitality
+- tavern
+- lodging
+- breakfast
+- place
+- car park
+- at the hotel
+- carpark
+- parking facilities
+- reception desk
+- guesthouse
+- rooms
+- comfortableness
+- in a hotel
+
+## intent:travel-rental car & taxi
+- letting 
+- self-drive 
+- u-drive 
+- hire car 
+- car rental 
+- lease 
+- you-drive 
+- rental 
+
+## intent:travel-vacation
+- holiday
+- break
+- leave
+- rest
+- time off
+- recess
+- leave of absence
+- sabbatical
+- holidays
+- furlough
+- leisure
+- vacationing
+- summer
+- recreation
+- spring break
+- take a holiday
+- trip
+- stay
+- holidaying
+- tour
+- respite
+- day off
+- liberty
+- have a rest
+- take a rest
+- vacay
+- relax
+- vacation time
+- take a vacation
+- relaxation
+- sojourn
+- visit
+- resting
+- leisure time
+- leave period
+- vacations
+- go on vacation
+- sleep
+- travel
+- pause
+- take some time off
+- recreational
+- time out
+- go on a vacation
+- take time off
+- take vacations
+- go on holiday
+- weekend
+- have a holiday
+- repose
